@@ -12,4 +12,33 @@ From the top left Complication going accross using Glucodatahandler specific Cus
 4. Glucose time stamp
 5. Samsung Timer 
 
+My Method to install watch face on my Galaxy Watch 7
+
+Step 1. Connect your watch and computer to the same Wi-Fi network 
+
+Step 2. Enable Developer Options on Watch
+go to Settings > About device > Software info, then tap the Build number until “Developer options enabled” appears on the screen. 
+Go back and select Developer Options at the bottom of /settings
+
+Step 3. Put you watch on a usb charger and open Developer Options
+    select “Stay awake when charging”
+    select “ADB Debugging”
+    select “wireless debugging then check wireless debugging in enabled,
+
+on the next screen, Now ensure wifi address is the same on both computer and watch, scroll down and select Allow. 
+It will bring you back to the previous screen. 
+
+Step 4. Now go to Samsung Watch Face Studio on PC load the file DMM1.WFS then select “Run on Device” 
+    Click + next to scan devices
+    Add your ip address  (example 192.168.1.106)
+    Then add port number that is after you ip: (example 34669)
+    Then click + on watch to (Pair new device)
+    Add Pairing code from watch to pairing code emplt slot in watch face studio.
+    Add Pairing Port Number from ip address at the bottom after Example (192.168.1.106:36749) then enter (36749)
+
+Then select ok and the face will apear on your watch in about 14 seconds. Watch will dissconnect after the file is sent. If you 
+want to send another file, you will have to pair again. I'm guessing, or there is somekind of build in ADB timeout build into wear os5. 
+Good Luck..
+
+
 Samsungs reference to install "run on Watch. Please note I did not use BT method I used wifi method, seems like Samsung Need to update this page. https://developer.samsung.com/galaxy-watch-tizen/studio/tutorial/connect.html#:~:text=Open%20the%20Run%20on%20Device%20panel%20in%20Galaxy%20Watch%20Studio&text=Then%20select%20the%20watch%20on,it%20to%20Galaxy%20Watch%20Studio.
