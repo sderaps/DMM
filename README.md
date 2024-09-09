@@ -33,7 +33,7 @@ Step 4. Now go to Samsung Watch Face Studio on PC load the file DMM1.WFS then se
     Add your ip address  (example 192.168.1.106)
     Then add port number that is after you ip: (example 34669)
     Then click + on watch to (Pair new device)
-    Add Pairing code from watch to pairing code emplt slot in watch face studio.
+    Add Pairing code from watch to pairing code empty slot in watch face studio.
     Add Pairing Port Number from ip address at the bottom after Example (192.168.1.106:36749) then enter (36749)
 
 Then select ok and the face will apear on your watch in about 14 seconds. Watch will dissconnect after the file is sent. If you 
@@ -41,4 +41,4 @@ want to send another file, you will have to pair again. I'm guessing, or there i
 Good Luck..
 
 
-Samsungs reference to install "run on Watch. Please note I did not use BT method I used wifi method, seems like Samsung Need to update this page. https://developer.samsung.com/galaxy-watch-tizen/studio/tutorial/connect.html#:~:text=Open%20the%20Run%20on%20Device%20panel%20in%20Galaxy%20Watch%20Studio&text=Then%20select%20the%20watch%20on,it%20to%20Galaxy%20Watch%20Studio.
+Samsungs reference to install "run on Watch. seems like Samsung Need to update this page. https://developer.samsung.com/galaxy-watch-tizen/studio/tutorial/connect.html#:~:text=Open%20the%20Run%20on%20Device%20panel%20in%20Galaxy%20Watch%20Studio&text=Then%20select%20the%20watch%20on,it%20to%20Galaxy%20Watch%20Studio.
