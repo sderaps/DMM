@@ -40,5 +40,11 @@ Step 4. Now go to Samsung Watch Face Studio on PC load the file DMM1.WFS then se
 
 Then select ok in watch face studio and the face will apear on your watch in about 14 seconds. Watch will dissconnect after the file is sent. If you 
 want to send another file, you will have to pair again. I'm guessing, there is some kind of (build in) ADB timeout build into wear os5 that will stop the connection. 
+
+Come Check out My Youtube channel for other Watch Faces Setups I've used with Basic Installation help. 
+
+Diabetic Masked Man Channel Here:
+https://www.youtube.com/channel/UCF-M5IItLP5aJpMiBQtmQKw
+
 Good Luck.
 
