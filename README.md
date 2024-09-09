@@ -11,3 +11,5 @@ From the top left Complication going accross using Glucodatahandler specific Cus
 3. IOB
 4. Glucose time stamp
 5. Samsung Timer 
+
+Samsungs reference to install "run on Watch. Please note I did not use this method.. https://developer.samsung.com/galaxy-watch-tizen/studio/tutorial/connect.html#:~:text=Open%20the%20Run%20on%20Device%20panel%20in%20Galaxy%20Watch%20Studio&text=Then%20select%20the%20watch%20on,it%20to%20Galaxy%20Watch%20Studio.
