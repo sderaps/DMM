@@ -1,12 +1,16 @@
-Diabetic Watch Faces Created with Samsung Watch Face Studio that are Compatible with Wear OS 5+ using GlucodataHandler for the Visually Impaired
+Diabetic Oversized Watch Face Created with Samsung Watch Face Studio that are Compatible with Wear OS 5+ using GlucodataHandler for the Visually Impaired
 
 File DMM1.wfs was created with WatchFaceStudio_1.6.10.exe on Windows 11.  
 
-Warning: My watch is (Galaxy Watch 7 44mm), and I'm not sure if the watch face will display correctly on a smaller watch face (IE 41mm) Display. 
+Pixel Watch 3 44mm
+![](DMM1 Pixel Watch 3 44mm.jpg)
 
-Thanks to Pachi81 for GlucodataHandler Here: https://github.com/pachi81/GlucoDataHandler
+Galaxy Watch 7 44mm
+![](DMM1 Galaxy Watch 7 44mm.jpg)
 
-I created a very simple watch face for my MDI Injections with 5 oversized, extra large complications for better viewing experience for the visually impaired for Dexcom G7, xdrip+ companion for the Galaxy watch 7 ,using very specific Complications from glucodata handler app on phone and watch. I'm still learning and the watch face still needs work, but it's functional enough. I will try out the Libre 3 on in in a few weeks too. Anyone wanting to help fix the face is welcome. Installing the watch face on wear os 5 is a bit complicated, and you have to use WatchFaceStudio_1.6.10 program. You Load the file and send it to watch via ADB using the Function "Run on Watch" in the Watchfacestudio App. I will try to find detailed instrucions on how to install the watch face. My hope is that a watch face developer can take this idea to the next level and make the face better and the install process easier. This watch face complications uses very specific glucodataandler customization. Sooo, Warning !! Other customizations will NOT look right and the font will be tiny or ridiculously oversized. Also when touching the watch face, it brings me to alarms and I don't know how to fix that or make it go somewhere else. 
+
+Oversized watch face for MDI Injections with extra large complications for better viewing experience for the visually impaired for Dexcom G7, xdrip+ companion for the Galaxy watch 7 or Pixel Watch 3,using very specific Complications from glucodata handler app on phone and watch. Installing the watch face on wear os 5 is a bit complicated, and you have to use WatchFaceStudio_1.6.10 program. You Load the file and send it to watch via ADB using the Function "Run on Watch" in the Watchfacestudio App. Detailed install instrucions below. This watch face complications uses very specific glucodataandler customization. Warning !! Other customizations will NOT look right and the font will be tiny or oversized. Also when touching the watch face, it brings me to alarms and I don't know how to fix that or make it go somewhere else. 
+
 From the top left Complication going accross using Glucodatahandler specific Customizations are as follows. 
 1. Glucose and Trend (big and colored),
 2. Delta big,
@@ -14,7 +18,7 @@ From the top left Complication going accross using Glucodatahandler specific Cus
 4. Glucose time stamp
 5. Samsung Timer 
 
-My Method to install watch face on my Galaxy Watch 7
+Install Process
 
 Step 1. Connect your watch and computer to the same Wi-Fi network 
 
