@@ -8,7 +8,9 @@ Galaxy Watch 7 44mm "WORKS CONFIRMED"
 
 Summary: 
 
-Oversized watch face for MDI Injections with extra large complications for better viewing experience for the visually impaired for Dexcom G7, xdrip+ companion for the Galaxy watch 7 or Pixel Watch 3, using very specific Complications from glucodata handler app on phone and watch. Installing the watch face on wear os 5 is a bit complicated, and you have to use WatchFaceStudio_1.6.10 program. You Load the file and send it to watch via ADB using the Function "Run on Watch" in the Watchfacestudio App. Detailed install instrucions below. This watch face complications uses very specific glucodataandler customization. Warning !! Other customizations will NOT look right and the font will be tiny or oversized. Also when touching the watch face, it brings me to alarms and I don't know how to fix that or make it go somewhere else. 
+Oversized watch face for MDI Injections with extra large complications for better viewing experience for the visually impaired for Dexcom G7, xdrip+ companion for the Galaxy watch 7 or Pixel Watch 3, using very specific Complications from glucodata handler app on phone and watch. Installing the watch face on wear os 5 is a bit complicated, and you have to use WatchFaceStudio_1.6.10 program. You Load the file and send it to watch via ADB using the Function "Run on Watch" in the Watchfacestudio App. Detailed install instrucions below. 
+
+Warning!! This watch face complications uses very specific glucodataandler customization. Other customizations will NOT look right and the font will be tiny or oversized. Also when touching the watch face, it brings me to alarms and I don't know how to fix that or make it go somewhere else. With that said, You have my permission to download, alter and use the watch face .wfs file to fit your personal needs. 
 
 From the top left Complication going accross using Glucodatahandler specific Customizations are as follows. 
 1. Glucose and Trend (big and colored),
