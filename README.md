@@ -31,7 +31,7 @@ From the top left Complication going accross using Glucodatahandler specific Cus
 
 Install Process
 
-Disclamer: Warning.. Samsung Watch Face Studio Gave me alot of problems connecting to my watchs during the install "Run On Device", I have to spend quit alot of time trying to install the watch face over and over and over again and Never figured out what the glitch was.  I'm assuming there is some kind of Bug in watch face studio. But with much persistance I was able to install. At some point when I get this watch face better, I'm hoping I can upload it to google play Store to ease the install process. But it's out of my league right now..   
+Disclamer: Warning.. Samsung Watch Face Studio Gave me alot of problems connecting to my watchs during the install "Run On Device", I had to spend quit alot of time trying to install the watch face over and over and over again and Never figured out what the glitch was.  I'm assuming there is some kind of Bug in watch face studio. But with much persistance I was able to install. At some point when I get this watch face better, I'm hoping I can upload it to google play Store to ease the install process. But it's out of my league right now..   
 
 Step 1. Connect your watch and computer to the same Wi-Fi network 
 
