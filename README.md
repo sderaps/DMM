@@ -1,6 +1,6 @@
 Diabetic Oversized Watch Face For MDI Injection Created with Samsung Watch Face Studio that are Compatible with Wear OS 5+ using GlucodataHandler for the Visually Impaired
 
-File DMM1.wfs was created with WatchFaceStudio_1.6.10.exe  
+File DMM1.wfs and DMM2.wfs was created with WatchFaceStudio_1.6.10.exe  
 
 Pixel Watch 3 44mm "WORKS COMFIRMED"
 
