@@ -12,12 +12,23 @@ Oversized watch face for MDI Injections with extra large complications for bette
 
 Warning!! This watch face complications uses very specific glucodataandler customization. Other customizations will NOT look right and the font will be tiny or oversized. Also when touching the watch face, it brings me to alarms and I don't know how to fix that or make it go somewhere else. With that said, You have my permission to download, alter and use the watch face .wfs file to fit your personal needs. 
 
+DMM1 Watch Face 
 From the top left Complication going accross using Glucodatahandler specific Customizations are as follows. 
 1. Glucose and Trend (big and colored),
 2. Delta big,
 3. IOB
 4. Glucose time stamp
-5. Samsung Timer 
+5. Samsung or Google Timer 
+
+DMM2 Watch Face 
+From the top left Complication going accross using Glucodatahandler specific Customizations are as follows. 
+1. Glucose and Trend (big and colored),
+2. Delta big,
+3. IOB
+4. Samsung or Google Timer
+5. Glucose time stamp
+6. Watch Battery Level
+
 
 Install Process
 
