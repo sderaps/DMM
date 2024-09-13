@@ -33,7 +33,7 @@ From the top left Complication going accross using Glucodatahandler specific Cus
 
 Install Process
 
-Update: Samsung Watch Face Studio Gave me alot of problems connecting to my watchs during the install "Run On Device", I had to spend quit alot of time trying to install the watch face over and over and over again. But I think I figuure it out. Make sure bluetooth is turned off on the Watch and temporarly disable all firewalls on PC. Then try pairing it again and run on watch. Don't forget to re-enable your firewall after it installs. At some point when I get this watch face better, I'm hoping I can upload it to google play Store to ease the install process. But it's out of my league right now..   
+Update: Samsung Watch Face Studio Gave me alot of problems connecting to my watchs during the install "Run On Device", I had to spend quit alot of time trying to install the watch face over and over again. But I think I figuure it out. Make sure bluetooth is turned off on the Watch and temporarly disable all firewalls on PC. Then try pairing it again and run on watch. Don't forget to re-enable your firewall after it installs. At some point when I get this watch face better, I'm hoping I can upload it to google play Store to ease the install process. But it's out of my league right now..   
 
 Step 1. Connect your watch and computer to the same Wi-Fi network 
 
