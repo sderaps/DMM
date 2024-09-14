@@ -1,6 +1,7 @@
 Diabetic Oversized Watch Face For MDI Injection Created with Samsung Watch Face Studio that are Compatible with Wear OS 5+ using GlucodataHandler for the Visually Impaired
 
-File DMM1.wfs and DMM2.wfs was created with WatchFaceStudio_1.6.10.exe 
+File DMM1_DexcomG7_Xdrip.wfs and DMM2_DexcomG7_Xdrip.wfs Watch face was created with WatchFaceStudio_1.7.9.exe or Higher
+The complications are (very specific) for use with Dexcom G7, xdip+, and Glucodatahandler.
 
 UPDATE 9/14/24 dmm2.wfs was updated to show noticifation bubble on bottom of watch face, without covering Timestamp. 
 
