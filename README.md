@@ -2,10 +2,9 @@ Diabetic Oversized Watch Face For MDI Injection Created with Samsung Watch Face 
 
 Watch Faces for xdrip+, Dexcom G7 and Glucodata created with WatchFaceStudio_1.7.9.exe or Higher (ONLY)
 1. DMM1_DexcomG7_Xdrip.wfs
-2. DMM2_DexcomG7_Xdrip.wfs Watch face was created with WatchFaceStudio_1.7.9.exe or Higher
+2. DMM2_DexcomG7_Xdrip.wfs
 
 I will be creating other watch faces compatible with Libre 3 soon.
-
 
 Here is the Download Link to Watch Face Studio:
 https://developer.samsung.com/watch-face-studio/download.html
