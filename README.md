@@ -2,7 +2,12 @@ Diabetic Oversized Watch Face For MDI Injection Created with Samsung Watch Face 
 
 File DMM1.wfs and DMM2.wfs was created with WatchFaceStudio_1.6.10.exe 
 
-UPDATE 9/12/24 dmm2.wfs was updated to show noticifation bubble on bottom of watch face, without covering Timestamp. 
+UPDATE 9/14/24 dmm2.wfs was updated to show noticifation bubble on bottom of watch face, without covering Timestamp. 
+
+Testing
+* I have tested the WatchFaceStudio_1.7.9.exe beta, and it allow more editing possibilities, but is not backward compatible with WatchfaceStudio 1.6.10.
+* I will now be able to edit my watch faces and improve them. But don't know if that will limit wear devices. 
+
 
 Pixel Watch 3 44mm "WORKS COMFIRMED" 
 
