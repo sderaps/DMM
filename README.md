@@ -8,6 +8,8 @@ Testing
 * I have tested the WatchFaceStudio_1.7.9.exe beta, and it allow more editing possibilities, but is not backward compatible with WatchfaceStudio 1.6.10.
 * I will now be able to edit my watch faces and improve them. But don't know if that will limit wear devices. 
 
+Here is the Download Link to Watch Face Studio:
+https://developer.samsung.com/watch-face-studio/download.html
 
 Pixel Watch 3 44mm "WORKS COMFIRMED" 
 
