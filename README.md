@@ -5,7 +5,7 @@ File DMM1.wfs and DMM2.wfs was created with WatchFaceStudio_1.6.10.exe
 UPDATE 9/14/24 dmm2.wfs was updated to show noticifation bubble on bottom of watch face, without covering Timestamp. 
 
 Testing
-* I have tested the WatchFaceStudio_1.7.9.exe beta, and it allow more editing possibilities, but is not backward compatible so once you save the watch face in WatchFaceStudio_1.7.9.exe program, you can no longer edit watch face with WatchFaceStudio_1.6.10.exe
+* I have tested the WatchFaceStudio_1.7.9.exe beta, and it allows more editing possibilities, but is not backward compatible so once you save the watch face in WatchFaceStudio_1.7.9.exe program, you can no longer edit the watch face with WatchFaceStudio_1.6.10.exe
   
 * I will now be able to edit my watch faces and improve them. But don't know if that will limit older wear devices. 
 
