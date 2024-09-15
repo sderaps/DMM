@@ -75,22 +75,23 @@ Samsung Watch Face Studio Gave me allot of problems connecting to my watches dur
 
 Step 1. Connect your watch and computer to the same Wi-Fi network
 
-Step 2. Enable Developer Options on Watch go to Settings > About device > Software info, then tap the Build number until “Developer options enabled” appears on the screen. Swipe the screen "left to right" to Go back and select Developer Options at the bottom of /settings
+Step 2. On your Watch Go to Settings/Connections and Turn off Bluetooth.
 
-Step 3 On your Watch Go to Settings/Connections and Turn off Bluetooth.
+Step 3. Turn off your PC Firewalls, there are 2 switches for firewalls to turn off in Windows Security on Windows 11. 
 
-Step 4. Turn off your PC Firewalls, there are 2 switches for firewalls to turn off in Windows Security on Windows 11. 
 
-Step 5. Put you watch on a usb charger and open Developer Options select “Stay awake when charging” select “ADB Debugging” select “wireless debugging then check wireless debugging in enabled,
+Step 4. Enable Developer Options on Watch go to Settings > About device > Software info, then tap the Build number until “Developer options enabled” appears on the screen. Swipe the screen "left to right" to Go back and select Developer Options at the bottom of /settings
+
+Step 5. Put your watch on a usb charger and open Developer Options select “Stay awake when charging” select “ADB Debugging” select “wireless debugging then check wireless debugging in enabled,
  
- Step 6. on the next screen, Now ensure wifi address is the same on both computer and watch, scroll down and select Allow. It will bring you back to the previous screen.
+  on the next screen, Now ensure WIFI address is the same on both computer and watch, scroll down and select Allow. It will bring you back to the previous screen.
 
-Step 7. Now go to Samsung Watch Face Studio on PC load the file *.WFS then select “Run on Device” Click + next to (scan devices) Add your ip address from your watch (example 192.168.1.106) Then add port number that is after your ip: (example 34669) Then click + on the watch to (Pair new device) Add Pairing code from watch to pairing code empty slot in watch face studio. Then Add Pairing Port Number from ip address at the bottom after Example (192.168.1.106:36749) then enter (36749)
+Step 6. Now go to Samsung Watch Face Studio on PC load the file *.WFS then select “Run on Device” Click + next to (scan devices) Add your ip address from your watch (example 192.168.1.106) Then add port number that is after your ip: (example 34669) Then click + on the watch to (Pair new device) Add Pairing code from watch to pairing code empty slot in watch face studio. Then Add Pairing Port Number from ip address at the bottom after Example (192.168.1.106:36749) then enter (36749)
 
 Then select ok in watch face studio, and then click on the Your Watch in Devices and the File will be sent to your watch and the face will appear on your watch in about 16 to 20 seconds. If your waiting more than 2 minutes. Most likely something went wrong with the installation. Close Watch Face Studio and try Again. Persistence will get the Job done, Don't give up!!
 
 ## About Me
-I'm just a Type 1 diabetic that is trying to find solutions for Offline Blood Glucose Readings to my Watch. And see the overwhelming need for support on Social Media. So I'm sharing my results. Come Check out My You tube Channel for Basic Installation Videos. 
+I'm just a Type 1 diabetic that is trying to find solutions for myself and finding Amazing Software's that allow me to see my Offline Blood Glucose Readings, and Treat myself on the fly with little thought. Seeing on my watch face my Blood glucose and Trend, Delta, Timestamp and IOB are an absolute must on my watch face for me. I see the overwhelming need for support on Social Media So I'm sharing my results. But Keep in mind this is all experimental and you use at your own risk, Come Check out My You tube Channel for Basic Installation Videos. 
 
 
 **Diabetic Masked Man Channel Here:** https://www.youtube.com/channel/UCF-M5IItLP5aJpMiBQtmQKw
