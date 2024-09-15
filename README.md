@@ -1,6 +1,6 @@
-## Welcome to DMM, Diabetic Masked Man!
+## Welcome to Diabetic Masked Man!
 
-Diabetic Oversized Watch Face For MDI Injection Created with Samsung Watch Face Studio that are Compatible with Wear OS 5+ using GlucodataHandler for the Visually Impaired
+Diabetic Oversized Watch Face For MDI Injection Created with Samsung Watch Face Studio that are Compatible with Wear OS 5+ using GlucodataHandler for the Visually Impaired.
 
 
 ## Watch Faces for Dexcom G7, Xdrip+, using GlucodataHandler Complications
@@ -16,39 +16,57 @@ DMM2_DexcomG7_Xdrip.wfs
 
 
 
-## Program Needed for Installation
+## Program Needed for Watch Face Installation
 
-**Download Watch Face Studio** 
+**Download Samsung Watch Face Studio** 
 (WatchFaceStudio_1.7.9.exe or Higher ONLY): https://developer.samsung.com/watch-face-studio/download.html
 
 
 
 ## Warning!
 
-This watch face complications uses very specific glucodataandler customization. Other customizations will NOT look right and the font will be tiny or oversized.  You have my permission to download, alter and use the watch face .wfs file to fit your personal needs.
+These watch face complications uses very specific glucodatahandler customization. Other customizations will "NOT" look right and the font will be tiny or oversized.  You have my permission to download, alter and use the *.wfs file to fit your personal needs. 
+
+*These Watch Faces Were created specifically because of Googles Wear OS Changes on Wear OS 5, making Watch Face Apps Currently Like Pujie Watch Faces no longer Compatible. 
+
+**Older Versions of Wear os Watches, might not work right with the faces posted here. The only way to tell is to test it.
+
+** For older versions of wear os watches, You might be able to find a good watch face and simple tutorial on my Youtube channel: Diabetic Masked Man , link in "about me" at the bottom of this Page 
 
 ## Summary
-Oversized watch face for MDI Injections with extra large complications for better viewing experience for the visually impaired for Dexcom G7, xdrip+ companion for the Galaxy watch 7 or Pixel Watch 3, using very specific Complications from glucodata handler app on phone and watch. Installing the watch face on wear os 5 is a bit complicated, and you have to use WatchFaceStudio_1.7.9.exe or Higher program. You Load the file and send it to watch via ADB using the Function "Run on Watch" in the Watchfacestudio App. Detailed install instructions below.
+Oversized watch face for MDI Injections with extra large complications for better viewing experience for the visually impaired for Dexcom G7, Xdrip+ for the (Galaxy watch 7 or Pixel Watch 3 Tested), using very specific Complications from GlucodataHandler app on phone and watch. Installing the watch face on wear os 5 is a bit complicated, and you have to use WatchFaceStudio_1.7.9.exe or Higher program. You Load the file and send it to watch via ADB using the Function "Run on Watch" in the Watchfacestudio App. Detailed install instructions below.
+
+**GlucodataHandler Android App** 
+Google Play Go Here:
+https://play.google.com/store/apps/details?id=de.michelinside.glucodatahandler&hl=en_US
+
+**Xdrip+ Android App ** 
+Stable Build Here
+https://xdrip.readthedocs.io/en/latest/install/download/
+Nightly Build Here:
+https://github.com/NightscoutFoundation/xDrip/releases
+
+My Plan is to create and test watch faces for the Liibre 3 in the very soon.. 
 
 ## About Watch Faces
 
 **DMM1** Watch Face From the top left Complication going across using Glucodatahandler specific Customizations are as follows.
 
-Glucose and Trend (big and colored),
-Delta big,
-IOB
-Glucose time stamp
-Samsung or Google Timer
+1 Glucose and Trend (big and colored),
+2 Delta big,
+3 IOB
+4 Glucose time stamp
+5 Samsung or Google Timer
 
 **DMM2** Watch Face From the top left Complication going across using Glucodatahandler specific Customizations are as follows.
 
-Glucose and Trend (big and colored),
-Delta big,
-IOB
-Samsung or Google Timer
-Glucose time stamp
-Watch Battery Level
-Install Process
+1 Glucose and Trend (big and colored),
+2 Delta big,
+3 IOB
+4 Samsung or Google Timer
+5 Glucose time stamp
+6 Watch Battery Level
+
 
 
 ## Installation
@@ -59,13 +77,17 @@ Step 1. Connect your watch and computer to the same Wi-Fi network
 
 Step 2. Enable Developer Options on Watch go to Settings > About device > Software info, then tap the Build number until “Developer options enabled” appears on the screen. Go back and select Developer Options at the bottom of /settings
 
-Step 3. Put you watch on a usb charger and open Developer Options select “Stay awake when charging” select “ADB Debugging” select “wireless debugging then check wireless debugging in enabled,
+Step 3 On you Watch Go to Settings/Connections and Turn off Bluetooth.
 
-on the next screen, Now ensure wifi address is the same on both computer and watch, scroll down and select Allow. It will bring you back to the previous screen.
+Step 4. Turn off your PC Firewalls, there are 2 switches for firewalls to turn off in Windows Security on Windows 11. 
 
-Step 4. Now go to Samsung Watch Face Studio on PC load the file DMM1.WFS then select “Run on Device” Click + next to (scan devices) Add your ip address from your watch (example 192.168.1.106) Then add port number that is after your ip: (example 34669) Then click + on the watch to (Pair new device) Add Pairing code from watch to pairing code empty slot in watch face studio. Then Add Pairing Port Number from ip address at the bottom after Example (192.168.1.106:36749) then enter (36749)
+Step 5. Put you watch on a usb charger and open Developer Options select “Stay awake when charging” select “ADB Debugging” select “wireless debugging then check wireless debugging in enabled,
+ 
+ Step 6. on the next screen, Now ensure wifi address is the same on both computer and watch, scroll down and select Allow. It will bring you back to the previous screen.
 
-Then select ok in watch face studio and the face will appear on your watch in about 14 seconds. Watch will disconnect after the file is sent. If you want to send another file, you will have to pair again. I'm guessing, there is some kind of (build in) ADB timeout build into wear os5 that will stop the connection.
+Step 7. Now go to Samsung Watch Face Studio on PC load the file *.WFS then select “Run on Device” Click + next to (scan devices) Add your ip address from your watch (example 192.168.1.106) Then add port number that is after your ip: (example 34669) Then click + on the watch to (Pair new device) Add Pairing code from watch to pairing code empty slot in watch face studio. Then Add Pairing Port Number from ip address at the bottom after Example (192.168.1.106:36749) then enter (36749)
+
+Then select ok in watch face studio, and then click on the Your Watch in Devices and the File will be sent to your watch and the face will appear on your watch in about 16 to 20 seconds. If your waiting more than 2 minutes. Most likely something went wrong with the installation. Close Watch Face Studio and try Again. Persistence will get the Job done, Don't give up!!
 
 ## About Me
 I'm just a Type 1 diabetic that is trying to find solutions for Offline Blood Glucose Readings to my Watch. And see the overwhelming need for support on Social Media. So I'm sharing my results. Come Check out My You tube Channel for Basic Installation Videos. 
@@ -74,5 +96,5 @@ I'm just a Type 1 diabetic that is trying to find solutions for Offline Blood Gl
 **Diabetic Masked Man Channel Here:** https://www.youtube.com/channel/UCF-M5IItLP5aJpMiBQtmQKw
 
 
-## Good Luck!
+## God Bless
 
