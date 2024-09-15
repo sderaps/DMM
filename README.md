@@ -52,20 +52,20 @@ My Plan is to create and test watch faces for the Liibre 3 in the very soon..
 
 **DMM1** Watch Face From the top left Complication going across using Glucodatahandler specific Customizations are as follows.
 
-1 Glucose and Trend (big and colored),
-2 Delta big,
-3 IOB
-4 Glucose time stamp
-5 Samsung or Google Timer
+1. Glucose and Trend (big and colored),
+2. Delta big,
+3. IOB
+4. Glucose time stamp
+5. Samsung or Google Timer
 
 **DMM2** Watch Face From the top left Complication going across using Glucodatahandler specific Customizations are as follows.
 
-1 Glucose and Trend (big and colored),
-2 Delta big,
-3 IOB
-4 Samsung or Google Timer
-5 Glucose time stamp
-6 Watch Battery Level
+1. Glucose and Trend (big and colored),
+2. Delta big,
+3. IOB
+4. Samsung or Google Timer
+5. Glucose time stamp
+6. Watch Battery Level
 
 
 
@@ -75,9 +75,9 @@ Samsung Watch Face Studio Gave me allot of problems connecting to my watches dur
 
 Step 1. Connect your watch and computer to the same Wi-Fi network
 
-Step 2. Enable Developer Options on Watch go to Settings > About device > Software info, then tap the Build number until “Developer options enabled” appears on the screen. Go back and select Developer Options at the bottom of /settings
+Step 2. Enable Developer Options on Watch go to Settings > About device > Software info, then tap the Build number until “Developer options enabled” appears on the screen. Swipe the screen "left to right" to Go back and select Developer Options at the bottom of /settings
 
-Step 3 On you Watch Go to Settings/Connections and Turn off Bluetooth.
+Step 3 On your Watch Go to Settings/Connections and Turn off Bluetooth.
 
 Step 4. Turn off your PC Firewalls, there are 2 switches for firewalls to turn off in Windows Security on Windows 11. 
 
