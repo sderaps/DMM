@@ -90,6 +90,8 @@ Step 6. Now go to Samsung Watch Face Studio on PC load the file *.WFS then selec
 
 Then select ok in watch face studio, and then click on the Your Watch in Devices and the File will be sent to your watch and the face will appear on your watch in about 16 to 20 seconds. If your waiting more than 2 minutes. Most likely something went wrong with the installation. Close Watch Face Studio and try Again. Persistence will get the Job done, Don't give up!!
 
+This watch background are basic because I cannot create an .apk installation file. So If you want to edit the Watch face background in Watch Face Studio, I've uploaded a few you can choose from, Just put the .png files in your hard drive watch back ground directory in watch studio and add them. 
+
 ## About Me
 I'm just a Type 1 diabetic that is trying to find solutions for myself and finding Amazing Software's that allow me to see my Offline Blood Glucose Readings, and Treat myself on the fly with little thought. Seeing on my watch face my Blood glucose and Trend, Delta, Timestamp and IOB are an absolute must on my watch face for me. I see the overwhelming need for support on Social Media So I'm sharing my results. But Keep in mind this is all experimental and you use at your own risk, Come Check out My You tube Channel for Basic Installation Videos. 
 
