@@ -92,6 +92,16 @@ Then select ok in watch face studio, and then click on the Your Watch in Devices
 
 This watch background are basic because I cannot create an .apk installation file. So If you want to edit the Watch face background in Watch Face Studio, I've uploaded a few you can choose from, Just put the .png files in your hard drive watch back ground directory in watch studio and add them. 
 
+## Troubleshooting Installation ( What a Pain! )
+1. Make sure all firewalls (3 each) in windows 11 are disabled
+2. Make sure bluetooth on watch is off
+3.  Make sure "Stay awake when charging is on", don't forget to turn off after installation
+4. Try (revoke debug authorizations in Developer settings, then turn off wireless debugging and turn it back on again, then pair again. 
+5. Try to "publish the watch face" but then cancel
+6. Try rebooting Watch or pc.
+7. As you can see, from the above I had allot of problems installing these watch faces. But with persistence it worked. I'm sorry I don't know how to make this easier. I spend endless hours trying to solve, but never came to a percise conclusion. On Samsung Developer Site, you will be able to see I'm not the only one with this issue.. Here: https://forum.developer.samsung.com/t/run-on-device-problem/20008/55
+
+
 ## About Me
 I'm just a Type 1 diabetic that is trying to find solutions for myself and finding Amazing Software's that allow me to see my Offline Blood Glucose Readings, and Treat myself on the fly with little thought. Seeing on my watch face my Blood glucose and Trend, Delta, Timestamp and IOB are an absolute must on my watch face for me. I see the overwhelming need for support on Social Media So I'm sharing my results. But Keep in mind this is all experimental and you use at your own risk, Come Check out My You tube Channel for Basic Installation Videos. 
 
