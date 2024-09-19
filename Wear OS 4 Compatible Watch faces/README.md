@@ -1,6 +1,6 @@
 ## Watch Faces for Dexcom G7, Xdrip+, using GlucodataHandler Complications
 
-[DMM2_DexcomG7_Xdrip.wfs](https://github.com/sderaps/DMM/blob/a99a45b547c678e245dffda8d8a1cd8d0372e177/DMM2_DexcomG7_Xdrip.wfs)
+[DMM2_Wear_OS_4.wfs]
 
 ![DMM2](https://raw.githubusercontent.com/sderaps/DMM/main/DMM2_Dexcom_G7_Xdrip.jpg)
 
