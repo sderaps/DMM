@@ -17,12 +17,17 @@ Diabetic Oversized Watch Face For MDI Injection Created with Samsung Watch Face 
 
 ![DMM3](https://raw.githubusercontent.com/sderaps/DMM/main/DMM3%20Universal.jpg)
 
+## Wear OS 4 Watch Faces
 
+I'm creating Similar Watch Faces with using WatchFaceStudio_1.6.1.0, which is compatible with wear os 4. You can find that watch faces in File Folder Here: [Wear OS 4 Watch Faces](https://github.com/sderaps/DMM/tree/main/Wear%20OS%204%20Compatible%20Watch%20faces)
 
 ## Program Needed for Watch Face Installation
 
-**Download Samsung Watch Face Studio** 
-(WatchFaceStudio_1.7.9.exe or Higher ONLY): https://developer.samsung.com/watch-face-studio/download.html
+**Download Samsung Watch Face Studio**
+WatchFaceStudio_1.7.9.exe or Higher ONLY For Wear OS 5): https://developer.samsung.com/watch-face-studio/download.html
+
+**Download Samsung Watch Face Studio for Wear OS 4**
+To use Watch faces from File Folder "[Wear OS Compatible Watch Faces](https://github.com/sderaps/DMM/tree/main/Wear%20OS%204%20Compatible%20Watch%20faces)" Use can only use WatchFaceStudio_1.6.10.exe
 
 
 
@@ -32,9 +37,9 @@ These watch face complications uses very specific glucodatahandler customization
 
 *These Watch Faces Were created specifically because of Googles Wear OS Changes on Wear OS 5, making Watch Face Apps Currently Like Pujie Watch Faces no longer Compatible. 
 
-**Older Versions of Wear os Watches, might not work right with the faces posted here. The only way to tell is to test it.
+**Older Versions of Wear os Watches, Will not work with watch faces posted on the Main Page. You must go to folder HERE "[Wear OS 4 Compatible Watch Faces](https://github.com/sderaps/DMM/tree/main/Wear%20OS%204%20Compatible%20Watch%20faces)". I know they work and have been tested with Galaxy Watch 6 44mm. Keep in mind you must use WatchFaceStudio_1.6.10.exe to "Run on Device" Install.  
 
-** For older versions of wear os watches, You might be able to find a good watch face and simple tutorial on my Youtube channel: Diabetic Masked Man , link in "about me" at the bottom of this Page 
+** For older versions of wear os watches, You also might be able to find a good watch face and a simple tutorial on my Youtube channel: Diabetic Masked Man , link in "about me" at the bottom of this Page 
 
 ## Summary
 Oversized watch face for MDI Injections with extra large complications for better viewing experience for the visually impaired for Dexcom G7, Xdrip+ for the (Galaxy watch 7 or Pixel Watch 3 Tested), using very specific Complications from GlucodataHandler app on phone and watch. Installing the watch face on wear os 5 is a bit complicated, and you have to use WatchFaceStudio_1.7.9.exe or Higher program. You Load the file and send it to watch via ADB using the Function "Run on Watch" in the Watchfacestudio App. Detailed install instructions below.
