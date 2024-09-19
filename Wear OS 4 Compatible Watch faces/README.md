@@ -7,7 +7,7 @@ DMM2_Wear_OS_4.wfs
 
 DMM4_Wear_OS_4.wfs
 
-![DMM2]([[https://raw.githubusercontent.com/sderaps/DMM/main/DMM4_Dexcom_G7_Xdrip.jpg]](https://github.com/sderaps/DMM/blob/main/DMM4_DexcomG7_Xdrip.jpg))
+![DMM2]((https://github.com/sderaps/DMM/blob/main/DMM4_DexcomG7_Xdrip.jpg))
 
 
 
