@@ -13,6 +13,10 @@ Diabetic Oversized Watch Face For MDI Injection Created with Samsung Watch Face 
 
 ![DMM2](https://raw.githubusercontent.com/sderaps/DMM/main/DMM2_Dexcom_G7_Xdrip.jpg)
 
+[DMM4_Dexcom G7_Xdrip.wfs]
+
+![DMM4](https://raw.githubusercontent.com/sderaps/DMM/main/DMM4_DexcomG7_Xdrip.jpg)
+
 ## Watch Faces for Other CGMs, using GlucodataHandler Complications
 
 
@@ -86,6 +90,16 @@ My Plan is to create and test watch faces for the Liibre 3 in the very soon..
 4. Samsung or Google Timer
 5. Samsung Heart Rate Monitor
 6. Watch Battery Level
+
+**DMM4** Watch Face From the top left Complication going across using Glucodatahandler specific Customizations are as follows.
+
+1. Glucose time stamp
+2. Glucose and Trend (big and colored),
+3. IOB
+4. Samsung or Google Timer
+5. Delta big
+6. Watch Battery Level
+
 
 ## Installation
 
