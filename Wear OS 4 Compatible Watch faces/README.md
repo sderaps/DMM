@@ -4,6 +4,13 @@ DMM2_Wear_OS_4.wfs
 
 ![DMM2](https://raw.githubusercontent.com/sderaps/DMM/main/DMM2_Dexcom_G7_Xdrip.jpg)
 
+
+DMM4_Wear_OS_4.wfs
+
+![DMM2](https://raw.githubusercontent.com/sderaps/DMM/main/DMM4_Dexcom_G7_Xdrip.jpg)
+
+
+
 ## Program Needed for Watch Face Installation
 You must use WatchFaceStudio_1.6.1.0 to install on Watch with wear os 4.
 
