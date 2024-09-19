@@ -13,7 +13,7 @@ Diabetic Oversized Watch Face For MDI Injection Created with Samsung Watch Face 
 
 ![DMM2](https://raw.githubusercontent.com/sderaps/DMM/main/DMM2_Dexcom_G7_Xdrip.jpg)
 
-[DMM4_Dexcom G7_Xdrip.wfs]
+[\[DMM4_Dexcom G7_Xdrip.wfs\]](https://github.com/sderaps/DMM/blob/main/Dmm4_DexcomG7_Xdrip.wfs)
 
 ![DMM4](https://raw.githubusercontent.com/sderaps/DMM/main/DMM4_DexcomG7_Xdrip.jpg)
 
