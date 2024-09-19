@@ -25,4 +25,11 @@ You must use WatchFaceStudio_1.6.1.0 to install on Watch with wear os 4.
 5. Glucose time stamp
 6. Watch Battery Level
 
+**DMM4** Watch Face From the top left Complication going across using Glucodatahandler specific Customizations are as follows.
 
+1. Glucose time stamp
+2. Glucose and Trend (big and colored),
+3. IOB
+4. Samsung or Google Timer
+5. Delta big
+6. Watch Battery Level
