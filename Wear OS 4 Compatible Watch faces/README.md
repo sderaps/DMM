@@ -16,8 +16,4 @@ You must use WatchFaceStudio_1.6.1.0 to install on Watch with wear os 4.
 5. Glucose time stamp
 6. Watch Battery Level
 
-**Diabetic Masked Man Channel Here:** https://www.youtube.com/channel/UCF-M5IItLP5aJpMiBQtmQKw
-
-
-## God Bless
 
