@@ -119,16 +119,13 @@ Step 1. Connect your watch and computer to the same Wi-Fi network
 
 Step 2. On your Watch Go to Settings/Connections and Turn off Bluetooth.
 
-Step 3. Turn off your PC Firewalls, there are 2 switches for firewalls to turn off in Windows Security on Windows 11. 
+Step 3. Enable Developer Options on Watch go to Settings > About device > Software info, then tap the Build number until “Developer options enabled” appears on the screen. Swipe the screen "left to right" to Go back and select Developer Options at the bottom of /settings
 
-
-Step 4. Enable Developer Options on Watch go to Settings > About device > Software info, then tap the Build number until “Developer options enabled” appears on the screen. Swipe the screen "left to right" to Go back and select Developer Options at the bottom of /settings
-
-Step 5. Put your watch on a usb charger and open Developer Options select “Stay awake when charging” select “ADB Debugging” select “wireless debugging then check wireless debugging in enabled,
+Step 4. Put your watch on a usb charger and open Developer Options select “Stay awake when charging” select “ADB Debugging” select “wireless debugging then check wireless debugging in enabled,
  
   on the next screen, Now ensure WIFI address is the same on both computer and watch, scroll down and select Allow. It will bring you back to the previous screen.
 
-Step 6. Now go to Samsung Watch Face Studio on PC load the file *.WFS then select “Run on Device” Click + next to (scan devices) Add your ip address from your watch (example 192.168.1.106) Then add port number that is after your ip: (example 34669) Then click + on the watch to (Pair new device) Add Pairing code from watch to pairing code empty slot in watch face studio. Then Add Pairing Port Number from ip address at the bottom after Example (192.168.1.106:36749) then enter (36749)
+Step 5. Now go to Samsung Watch Face Studio on PC load the file *.WFS then select “Run on Device” Click + next to (scan devices) Add your ip address from your watch (example 192.168.1.106) Then add port number that is after your ip: (example 34669) Then click + on the watch to (Pair new device) Add Pairing code from watch to pairing code empty slot in watch face studio. Then Add Pairing Port Number from ip address at the bottom after Example (192.168.1.106:36749) then enter (36749)
 
 Then select ok in watch face studio, and then click on the Your Watch in Devices and the File will be sent to your watch and the face will appear on your watch in about 16 to 20 seconds. If your waiting more than 2 minutes. Most likely something went wrong with the installation. Close Watch Face Studio and try Again. Persistence will get the Job done, Don't give up!!
 
