@@ -103,7 +103,7 @@ My Plan is to create and test watch faces for the Liibre 3 in the very soon..
 
 ## Installation
 
-Samsung Watch Face Studio Gave me allot of problems connecting to my watches during the install "Run On Device", I had to spend quite allot of time trying to install the watch face over and over again. But I think I figured it out. Make sure Bluetooth is turned off on the Watch and temporarily disable all firewalls on PC. Then try pairing it again and run on watch. Don't forget to re-enable your firewalls after the watch face installs. At some point when I get this watch face better, I'm hoping I can upload it to google play Store to ease the install process for people. But it's out of my league right now..
+Samsung Watch Face Studio Gave me allot of problems connecting to my watches during the install "Run On Device", I had to spend quite allot of time trying to install the watch face over and over again. Here are the Steps:
 
 Step 1. Connect your watch and computer to the same Wi-Fi network
 
@@ -124,13 +124,27 @@ Then select ok in watch face studio, and then click on the Your Watch in Devices
 
 This watch background are basic because I cannot create an .apk installation file. So If you want to edit the Watch face background in Watch Face Studio, I've uploaded a few you can choose from, Just put the .png files in your hard drive watch back ground directory in watch studio and add them. 
 
-## Troubleshooting Installation ( What a Pain! )
-1. I don't like to disable Firewalls, But a Developer Suggested it might help with Watch face installation. But I just don't feel comfortable with that and Don't do that anymore. Please try to avoid and also understand it's not a good practice.    
-2. Make sure bluetooth on watch is off
-3.  Make sure "Stay awake when charging is on", don't forget to turn off after installation
-4. Try (revoke debug authorizations in Developer settings, then turn off wireless debugging and turn it back on again, then pair again. 
-5. Try rebooting Watch or pc.
-6. As you can see, from the above I had allot of problems installing these watch faces. But with persistence it worked. I'm sorry I don't know how to make this easier. I spend endless hours trying to solve, but never came to a percise conclusion. On Samsung Developer Site, you will be able to see I'm not the only one with this issue.. Here: https://forum.developer.samsung.com/t/run-on-device-problem/20008/55
+## Troubleshooting Installation! Ahhh!
+1. "Run of Device" Does nothing and Runs forever! 
+Note:  If "Run on Device" is trying to send the watchface to watch and does nothing for over 2 minutes. Do This! 
+2. Close out Watch Face Studio and Reboot PC.
+3. Go to Watch and "Revoke debugging Authorizations in Developer Settings
+4. Turn Off Wireless Debugging
+5. Turn Off ADB Debugging
+6. Turn Off Smart Watch and boot again.
+7. On Watch Make sure Bluetooth is Off
+8. Turn "ON" WIFI and Make Sure Wifi is the Same Address on both Watch and PC. 
+9. Open Watch Face Studio on PC, and load the watch face
+10. Click "Run on Watch" then select the "+"
+11. Now go back to watch, and turn on ADB Debugging, Click on Check Mark to Allow. 
+12. Go to Wireless Debugging, Toggel it ON, Then Click "allow" for Network.
+13. Scroll Down and follow procedure Described In (Step 6 Installation Instructions.
+This Should Work, If Not, Keep Doing this same procedure over and over until it works.  
+  
+Remember, after Successful Installation. Disable, ADB and Wireless Debugging, Disable Wifi and Enable Bluetooth. Also make sure Stay Away While Charging is turned OFF in Developer Setting. 
+
+As you can see, from the above I had allot of problems installing these watch faces. But with persistence it worked. I'm sorry I don't know how to make this easier. I spend endless hours trying to solve, The Troubleshooting Above seemed to fix the issue. On Samsung Developer Site, you will be able to see I'm not the only one with this issue and they really offered no Help. 
+Here: https://forum.developer.samsung.com/t/run-on-device-problem/20008/55
 
 
 ## About Me
