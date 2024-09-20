@@ -36,10 +36,12 @@ I'm creating Similar Watch Faces with using WatchFaceStudio_1.6.1.0, which are  
 ## Program Needed for Watch Face Installation
 
 **Download Samsung Watch Face Studio**
+
 WatchFaceStudio_1.7.9.exe or Higher ONLY For Wear OS 5): https://developer.samsung.com/watch-face-studio/download.html
 
 **Download Samsung Watch Face Studio for Wear OS 4**
-Only Use WatchFaceStudio_1.6.10.exe for Wear OS 4. Watch faces found Here: "[Wear OS 4 Compatible Watch Faces](https://github.com/sderaps/DMM/tree/main/Wear%20OS%204%20Compatible%20Watch%20faces)
+
+WatchFaceStudio_1.6.10.exe for Wear OS 4 only. Watch faces found Here: "[Wear OS 4 Compatible Watch Faces](https://github.com/sderaps/DMM/tree/main/Wear%20OS%204%20Compatible%20Watch%20faces)
 
 
 
