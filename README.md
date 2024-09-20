@@ -5,6 +5,9 @@
 **Please Note:  
 Faces are being periodically updated. You will be able to tell if the (.wfs) has been worked on by looking at the upload date.**
 
+Wear OS 5 Compatible Watches:
+Pixel Watch 3 , Galaxy Watch 7 
+
 
 
 
