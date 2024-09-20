@@ -1,6 +1,9 @@
-## Welcome to Diabetic Masked Man!
+# Welcome to Diabetic Masked Man!
 
-Diabetic Oversized Watch Face For MDI Injection Created with Samsung Watch Face Studio that are Compatible with Wear OS 5+ using GlucodataHandler for the Visually Impaired. ATTENTION! Faces are being periodically updated to be better as I learn the Software. You will be able to tell if the (Watchface)###.wfs has been worked on by looking at the upload date. 
+## Diabetic Oversized Watch Faces For MDI Injection Created with Samsung Watch Face Studio that are Compatible with Wear OS 5+ , and OS 4 using GlucodataHandler for the Visually Impaired.
+
+**Please Note:  
+Faces are being periodically updated. You will be able to tell if the (.wfs) has been worked on by looking at the upload date.**
 
 
 ## Watch Faces for Dexcom G7, Xdrip+, using GlucodataHandler Complications
@@ -124,24 +127,38 @@ Then select ok in watch face studio, and then click on the Your Watch in Devices
 
 This watch background are basic because I cannot create an .apk installation file. So If you want to edit the Watch face background in Watch Face Studio, I've uploaded a few you can choose from, Just put the .png files in your hard drive watch back ground directory in watch studio and add them. 
 
-## Troubleshooting Installation! Ahhh!
+## Troubleshooting Watch Face Installation! 
+
 1. "Run of Device" Does nothing and Runs forever! 
 Note:  If "Run on Device" is trying to send the watchface to watch and does nothing for over 2 minutes. Do This! 
-2. Close out Watch Face Studio and Reboot PC.
+
+2. Close out Watch Face Studio and Reboot PC
+
 3. Go to Watch and "Revoke debugging Authorizations in Developer Settings
+
 4. Turn Off Wireless Debugging
+
 5. Turn Off ADB Debugging
+
 6. Turn Off Smart Watch and boot again.
+
 7. On Watch Make sure Bluetooth is Off
+
 8. Turn "ON" WIFI and Make Sure Wifi is the Same Address on both Watch and PC. 
+
 9. Open Watch Face Studio on PC, and load the watch face
+
 10. Click "Run on Watch" then select the "+"
+
 11. Now go back to watch, and turn on ADB Debugging, Click on Check Mark to Allow. 
+
 12. Go to Wireless Debugging, Toggel it ON, Then Click "allow" for Network.
+
 13. Scroll Down and follow procedure Described In (Step 6 Installation Instructions.
+
 This Should Work, If Not, Keep Doing this same procedure over and over until it works.  
   
-Remember, after Successful Installation. Disable, ADB and Wireless Debugging, Disable Wifi and Enable Bluetooth. Also make sure Stay Away While Charging is turned OFF in Developer Setting. 
+Remember, after Successful Installation. Disable, ADB and Wireless Debugging, Disable Wifi and Enable Bluetooth. Also make sure "Stay Awake While Charging" is turned OFF in Developer Setting. 
 
 As you can see, from the above I had allot of problems installing these watch faces. But with persistence it worked. I'm sorry I don't know how to make this easier. I spend endless hours trying to solve, The Troubleshooting Above seemed to fix the issue. On Samsung Developer Site, you will be able to see I'm not the only one with this issue and they really offered no Help. 
 Here: https://forum.developer.samsung.com/t/run-on-device-problem/20008/55
