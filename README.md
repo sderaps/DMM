@@ -1,6 +1,6 @@
 ## Welcome to Diabetic Masked Man!
 
-Diabetic Oversized Watch Face For MDI Injection Created with Samsung Watch Face Studio that are Compatible with Wear OS 5+ using GlucodataHandler for the Visually Impaired.
+Diabetic Oversized Watch Face For MDI Injection Created with Samsung Watch Face Studio that are Compatible with Wear OS 5+ using GlucodataHandler for the Visually Impaired. ATTENTION! Faces are being periodically updated to be better as I learn the Software. You will be able to tell if the (Watchface)###.wfs has been worked on by looking at the upload date. 
 
 
 ## Watch Faces for Dexcom G7, Xdrip+, using GlucodataHandler Complications
@@ -125,13 +125,12 @@ Then select ok in watch face studio, and then click on the Your Watch in Devices
 This watch background are basic because I cannot create an .apk installation file. So If you want to edit the Watch face background in Watch Face Studio, I've uploaded a few you can choose from, Just put the .png files in your hard drive watch back ground directory in watch studio and add them. 
 
 ## Troubleshooting Installation ( What a Pain! )
-1. Make sure all firewalls (3 each) in windows 11 are disabled
+1. I don't like to disable Firewalls, But a Developer Suggested it might help with Watch face installation. But I just don't feel comfortable with that and Don't do that anymore. Please try to avoid and also understand it's not a good practice.    
 2. Make sure bluetooth on watch is off
 3.  Make sure "Stay awake when charging is on", don't forget to turn off after installation
 4. Try (revoke debug authorizations in Developer settings, then turn off wireless debugging and turn it back on again, then pair again. 
-5. Try to "publish the watch face" but then cancel
-6. Try rebooting Watch or pc.
-7. As you can see, from the above I had allot of problems installing these watch faces. But with persistence it worked. I'm sorry I don't know how to make this easier. I spend endless hours trying to solve, but never came to a percise conclusion. On Samsung Developer Site, you will be able to see I'm not the only one with this issue.. Here: https://forum.developer.samsung.com/t/run-on-device-problem/20008/55
+5. Try rebooting Watch or pc.
+6. As you can see, from the above I had allot of problems installing these watch faces. But with persistence it worked. I'm sorry I don't know how to make this easier. I spend endless hours trying to solve, but never came to a percise conclusion. On Samsung Developer Site, you will be able to see I'm not the only one with this issue.. Here: https://forum.developer.samsung.com/t/run-on-device-problem/20008/55
 
 
 ## About Me
