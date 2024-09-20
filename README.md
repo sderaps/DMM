@@ -6,7 +6,9 @@
 Faces are being periodically updated. You will be able to tell if the (.wfs) has been worked on by looking at the upload date.**
 
 
-## Watch Faces for Dexcom G7, Xdrip+, using GlucodataHandler Complications
+
+
+## Wear OS 5+ Watch Faces for Dexcom G7, Xdrip+, using GlucodataHandler Complications
 
 [DMM1_DexcomG7_Xdrip.wfs](https://github.com/sderaps/DMM/blob/a99a45b547c678e245dffda8d8a1cd8d0372e177/DMM1_DexcomG7_Xdrip.wfs)
 
@@ -20,7 +22,7 @@ Faces are being periodically updated. You will be able to tell if the (.wfs) has
 
 ![DMM4](https://raw.githubusercontent.com/sderaps/DMM/main/DMM4_DexcomG7_Xdrip.jpg)
 
-## Watch Faces for Other CGMs, using GlucodataHandler Complications
+## Wear OS 5+ Watch Faces for Other CGMs, using GlucodataHandler Complications
 
 
 [DMM3_Universal.wfs](https://github.com/sderaps/DMM/blob/ebc463ef4a033574e918236807612a5fc479a4ea/DMM3_Universal.wfs)
@@ -29,7 +31,7 @@ Faces are being periodically updated. You will be able to tell if the (.wfs) has
 
 ## Wear OS 4 Watch Faces
 
-I'm creating Similar Watch Faces with using WatchFaceStudio_1.6.1.0, which is compatible with wear os 4. You can find that watch faces in File Folder Here: [Wear OS 4 Watch Faces](https://github.com/sderaps/DMM/tree/main/Wear%20OS%204%20Compatible%20Watch%20faces)
+I'm creating Similar Watch Faces with using WatchFaceStudio_1.6.1.0, which are  compatible with Wear OS 4. You can find those watch faces in File Folder Here: [Wear OS 4 Watch Faces](https://github.com/sderaps/DMM/tree/main/Wear%20OS%204%20Compatible%20Watch%20faces)
 
 ## Program Needed for Watch Face Installation
 
@@ -37,7 +39,7 @@ I'm creating Similar Watch Faces with using WatchFaceStudio_1.6.1.0, which is co
 WatchFaceStudio_1.7.9.exe or Higher ONLY For Wear OS 5): https://developer.samsung.com/watch-face-studio/download.html
 
 **Download Samsung Watch Face Studio for Wear OS 4**
-To use Watch faces from File Folder "[Wear OS Compatible Watch Faces](https://github.com/sderaps/DMM/tree/main/Wear%20OS%204%20Compatible%20Watch%20faces)" Use can only use WatchFaceStudio_1.6.10.exe
+Only Use WatchFaceStudio_1.6.10.exe for Wear OS 4. Watch faces found Here: "[Wear OS 4 Compatible Watch Faces](https://github.com/sderaps/DMM/tree/main/Wear%20OS%204%20Compatible%20Watch%20faces)
 
 
 
