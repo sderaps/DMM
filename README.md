@@ -54,12 +54,12 @@ These watch face complications uses very specific glucodatahandler customization
 
 *These Watch Faces Were created specifically because of Googles Wear OS Changes on Wear OS 5, making Watch Face Apps Currently Like Pujie Watch Faces no longer Compatible. 
 
-**Older Versions of Wear os Watches, Will not work with watch faces posted on the Main Page. You must go to folder HERE "[Wear OS 4 Compatible Watch Faces](https://github.com/sderaps/DMM/tree/main/Wear%20OS%204%20Compatible%20Watch%20faces)". I know they work and have been tested with Galaxy Watch 6 44mm. Keep in mind you must use WatchFaceStudio_1.6.10.exe to "Run on Device" Install.  
+**Older Versions of Wear OS Watches, Will not work with watch faces posted on the Main Page. You must go to folder HERE "[Wear OS 4 Compatible Watch Faces](https://github.com/sderaps/DMM/tree/main/Wear%20OS%204%20Compatible%20Watch%20faces)". I know they work and have been tested with Galaxy Watch 6 44mm. Keep in mind you must use WatchFaceStudio_1.6.10.exe to "Run on Device" Install.  
 
-** For older versions of wear os watches, You also might be able to find a good watch face and a simple tutorial on my Youtube channel: Diabetic Masked Man , link in "about me" at the bottom of this Page 
+** For older versions of Wear OS Watches, You also might be able to find a good watch face setups and a simple tutorial on my Youtube channel: Diabetic Masked Man , Link is at the Bottom in the "About Me" section of the Page.  
 
 ## Summary
-Oversized watch face for MDI Injections with extra large complications for better viewing experience for the visually impaired for Dexcom G7, Xdrip+ for the (Galaxy watch 7 or Pixel Watch 3 Tested), using very specific Complications from GlucodataHandler app on phone and watch. Installing the watch face on wear os 5 is a bit complicated, and you have to use WatchFaceStudio_1.7.9.exe or Higher program. You Load the file and send it to watch via ADB using the Function "Run on Watch" in the Watchfacestudio App. Detailed install instructions below.
+Oversized watch faces for MDI Injections with Extra Large Complications for the visually impaired.  Works with Dexcom G7, Xdrip+, Libre 3 and other CGMs supported by GlucoDataHandler Android App for the current (Galaxy watch 7 or Pixel Watch 3). The  Complications used are very specific to the watch face using  GlucodataHandler app on phone and watch. Installing the watch face on Wear OS 5 is a bit complicated, and you have to use WatchFaceStudio_1.7.9.exe or Higher program. You Load the *.wfs file and send it to watch via ADB using the Function "Run on Watch" in the Watch Face Studio PC Application. Detailed install instructions below.
 
 **GlucodataHandler Android App** 
 Google Play Go Here:
@@ -71,9 +71,8 @@ https://xdrip.readthedocs.io/en/latest/install/download/
 Nightly Build Here:
 https://github.com/NightscoutFoundation/xDrip/releases
 
-My Plan is to create and test watch faces for the Liibre 3 in the very soon.. 
 
-## About Watch Faces
+## Watch Face Specific Customizations
 
 **DMM1** Watch Face From the top left Complication going across using Glucodatahandler specific Customizations are as follows.
 
