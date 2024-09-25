@@ -1,17 +1,20 @@
 # Welcome to Diabetic Masked Man!
 
-## Diabetic Oversized Watch Faces For MDI Injection Created with Samsung Watch Face Studio that are Compatible with Wear OS 5+ , and OS 4 using GlucodataHandler for the Visually Impaired.
+## Diabetic Oversized Watch Faces For MDI Injection Created with Samsung Watch Face Studio that are Compatible with Wear OS 5+ , and OS 4 (Both Tested) using GlucodataHandler for the Visually Impaired.
 
 **Please Note:  
 Faces are being periodically updated. You will be able to tell if the (.wfs) has been worked on by looking at the upload date.**
 
-Wear OS 5 Compatible Watches:
-Pixel Watch 3 , Galaxy Watch 7 
+**Current Wear OS 5 Compatible Watches: Pixel Watch 3 , Galaxy Watch 7** 
 
 
 
 
 ## Wear OS 5+ Watch Faces for Dexcom G7, Xdrip+, using GlucodataHandler Complications
+
+**Please Note :** These Watch Faces will also work with **Libre 3, with Juggulco** , and then using xdrip+ Hardware data source as Libre(Patched app) in Settings, However there is a delay in Blood Sugar Readings to xdrip+. There may also be others but untested.
+
+**Xdrip+** is my Main Go to Software for Diabetes Management using the Predictive Simulation Graphs with of Insulin Action, IOB, and Recording Insulin Dosing. 
 
 [DMM1_DexcomG7_Xdrip.wfs](https://github.com/sderaps/DMM/blob/a99a45b547c678e245dffda8d8a1cd8d0372e177/DMM1_DexcomG7_Xdrip.wfs)
 
