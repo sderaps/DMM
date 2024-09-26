@@ -20,13 +20,13 @@ Faces are being periodically updated. You will be able to tell if the (.wfs) has
 
 ![DMM1](https://raw.githubusercontent.com/sderaps/DMM/main/DMM1%20Galaxy%20Watch%20%207%2044mm.jpg)
 
-[DMM2_DexcomG7_Xdrip.wfs](https://github.com/sderaps/DMM/blob/a99a45b547c678e245dffda8d8a1cd8d0372e177/DMM2_DexcomG7_Xdrip.wfs)
+[DMM2_DexcomG7_Xdrip.wfs](https://github.com/sderaps/DMM/blob/a99a45b547c678e245dffda8d8a1cd8d0372e177/DMM2_DexcomG7_Xdrip.wfs) for Editing
+[DMM2.APK](https://github.com/sderaps/DMM/blob/0fa50cd462ce53f8d90611f69435acbc7f5fb793/DMM2.apk) Wear OS 4 &5 (tested) for sideloading to watch with Wear installer 2 App on Google Play store 
 
 ![DMM2](https://raw.githubusercontent.com/sderaps/DMM/main/DMM2_Dexcom_G7_Xdrip.jpg)
 
-[DMM4_Dexcom G7_Xdrip.wfs](https://github.com/sderaps/DMM/blob/main/Dmm4_DexcomG7_Xdrip.wfs)
-
-[DMM4.apk](https://github.com/sderaps/DMM/blob/7506efa03099aaa67cb10fc266db8626169924e0/DMM4.apk) for sideloading to watch with Wear installer 2 App on Google Play store
+[DMM4_Dexcom G7_Xdrip.wfs](https://github.com/sderaps/DMM/blob/main/Dmm4_DexcomG7_Xdrip.wfs%29%20%5BDMM4.apk) for Editing
+[DMM4.apk](https://github.com/sderaps/DMM/blob/7506efa03099aaa67cb10fc266db8626169924e0/DMM4.apk) Wear OS 4 &5 (tested) for sideloading to watch with Wear installer 2 App on Google Play store
 
 ![DMM4](https://raw.githubusercontent.com/sderaps/DMM/main/DMM4_DexcomG7_Xdrip.jpg)
 
