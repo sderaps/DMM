@@ -147,7 +147,7 @@ Here: https://forum.developer.samsung.com/t/run-on-device-problem/20008/55
 
 
 
-## Program Needed for Watch Face Installation
+## Program Needed for Watch Face Installation Using the "Run on Device" Command
 
 **Download Samsung Watch Face Studio**
 
