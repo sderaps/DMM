@@ -24,7 +24,9 @@ Faces are being periodically updated. You will be able to tell if the (.wfs) has
 
 ![DMM2](https://raw.githubusercontent.com/sderaps/DMM/main/DMM2_Dexcom_G7_Xdrip.jpg)
 
-[\[DMM4_Dexcom G7_Xdrip.wfs\]](https://github.com/sderaps/DMM/blob/main/Dmm4_DexcomG7_Xdrip.wfs)
+[DMM4_Dexcom G7_Xdrip.wfs](https://github.com/sderaps/DMM/blob/main/Dmm4_DexcomG7_Xdrip.wfs)
+
+[DMM4.apk](https://github.com/sderaps/DMM/blob/7506efa03099aaa67cb10fc266db8626169924e0/DMM4.apk) for sideloading to watch with Wear installer 2 App on Google Play store
 
 ![DMM4](https://raw.githubusercontent.com/sderaps/DMM/main/DMM4_DexcomG7_Xdrip.jpg)
 
