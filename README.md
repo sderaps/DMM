@@ -117,7 +117,19 @@ https://github.com/NightscoutFoundation/xDrip/releases
 6. Watch Battery Level
 
 
-## Installation
+## Watch Face Installation Just Got Easier
+**Apk Installation File have been created for easy installation of Watch Faces.**
+
+Download Wear Installer 2 App from Play Store Here:
+https://play.google.com/store/apps/details?id=org.freepoc.wearinstaller2&hl=en_US
+
+Then Follow the Well written Instructions on the App on how to install apks. That It.. Enjoy!!!** 
+
+
+## Installation ADVANCED!
+**Good if you want to create your own watch face.. Have Fun!!!!**
+
+****Installation Instructions for Installing Your own Created Watch Face or Editing one of mine. Using the .wfs File using the (RUN ON DEVICE) command**
 
 Samsung Watch Face Studio Gave me allot of problems connecting to my watches during the install "Run On Device", I had to spend quite allot of time trying to install the watch face over and over again. Here are the Steps:
 
