@@ -1,16 +1,10 @@
 # Welcome to Diabetic Masked Man!
 
-## Diabetic Oversized Watch Faces For MDI Injection Created with Samsung Watch Face Studio that are Compatible with Wear OS 5+ , and OS 4 (Both Tested) using GlucodataHandler for the Visually Impaired.
-
-**Please Note:  
-Faces are being periodically updated. You will be able to tell if the (.wfs) has been worked on by looking at the upload date.**
+## Diabetic Oversized Watch Faces For MDI Injection Created with Samsung Watch Face Studio that are Compatible with Wear OS 5+ , and Wear OS 4 (Both Tested) using GlucodataHandler for the Visually Impaired.
 
 **Current Wear OS 5 Compatible Watches: Pixel Watch 3 , Galaxy Watch 7** 
 
-
-
-
-## Wear OS 5+ Watch Faces for Dexcom G7, Xdrip+, using GlucodataHandler Complications
+## Wear OS Watch Faces for Dexcom G7, Xdrip+, using GlucodataHandler Complications
 
 **Please Note :** These Watch Faces will also work with **Libre 3, with Juggulco** , and then using xdrip+ Hardware data source as Libre(Patched app) in Settings, However there is a delay in Blood Sugar Readings to xdrip+. There may also be others but untested.
 
@@ -32,56 +26,18 @@ Faces are being periodically updated. You will be able to tell if the (.wfs) has
 
 ![DMM4](https://raw.githubusercontent.com/sderaps/DMM/main/DMM4_DexcomG7_Xdrip.jpg)
 
-## Wear OS 5+ Watch Faces for Other CGMs, using GlucodataHandler Complications
+## Wear OS Watch Faces for Other CGMs, using GlucodataHandler Complications
 
 
 [DMM3_Universal.wfs](https://github.com/sderaps/DMM/blob/ebc463ef4a033574e918236807612a5fc479a4ea/DMM3_Universal.wfs)
 
 ![DMM3](https://raw.githubusercontent.com/sderaps/DMM/main/DMM3%20Universal.jpg)
 
-## Wear OS 4 Watch Faces
-
-I'm creating Similar Watch Faces with using WatchFaceStudio_1.6.1.0, which are  compatible with Wear OS 4. You can find those watch faces in File Folder Here: [Wear OS 4 Watch Faces](https://github.com/sderaps/DMM/tree/main/Wear%20OS%204%20Compatible%20Watch%20faces)
-
-## Program Needed for Watch Face Installation
-
-**Download Samsung Watch Face Studio**
-
-WatchFaceStudio_1.7.9.exe or Higher ONLY For Wear OS 5): https://developer.samsung.com/watch-face-studio/download.html
-
-**Download Samsung Watch Face Studio for Wear OS 4**
-
-WatchFaceStudio_1.6.10.exe for Wear OS 4 only. Watch faces found Here: "[Wear OS 4 Compatible Watch Faces](https://github.com/sderaps/DMM/tree/main/Wear%20OS%204%20Compatible%20Watch%20faces)
-
-
-
-## Warning!
-
-These watch face complications uses very specific glucodatahandler customization. Other customizations will "NOT" look right and the font will be tiny or oversized.  You have my permission to download, alter and use the *.wfs file to fit your personal needs. 
-
-*These Watch Faces Were created specifically because of Googles Wear OS Changes on Wear OS 5, making Watch Face Apps Currently Like Pujie Watch Faces no longer Compatible. 
-
-**Older Versions of Wear OS Watches, Will not work with watch faces posted on the Main Page. You must go to folder HERE "[Wear OS 4 Compatible Watch Faces](https://github.com/sderaps/DMM/tree/main/Wear%20OS%204%20Compatible%20Watch%20faces)". I know they work and have been tested with Galaxy Watch 6 44mm. Keep in mind you must use WatchFaceStudio_1.6.10.exe to "Run on Device" Install.  
-
-** For older versions of Wear OS Watches, You also might be able to find a good watch face setups and a simple tutorial on my Youtube channel: Diabetic Masked Man , Link is at the Bottom in the "About Me" section of the Page.  
-
-## Summary
-Oversized watch faces for MDI Injections with Extra Large Complications for the visually impaired.  Works with Dexcom G7, Xdrip+, Libre 3 and other CGMs supported by GlucoDataHandler Android App for the current (Galaxy watch 7 or Pixel Watch 3). The  Complications used are very specific to the watch face using  GlucodataHandler app on phone and watch. Installing the watch face on Wear OS 5 is a bit complicated, and you have to use WatchFaceStudio_1.7.9.exe or Higher program. You Load the *.wfs file and send it to watch via ADB using the Function "Run on Watch" in the Watch Face Studio PC Application. Detailed install instructions below.
-
-**GlucodataHandler Android App** 
-Google Play Go Here:
-https://play.google.com/store/apps/details?id=de.michelinside.glucodatahandler&hl=en_US
-
-**Xdrip+ Android App ** 
-Stable Build Here
-https://xdrip.readthedocs.io/en/latest/install/download/
-Nightly Build Here:
-https://github.com/NightscoutFoundation/xDrip/releases
 
 
 ## Watch Face Specific Customizations
 
-**DMM1** Watch Face From the top left Complication going across using Glucodatahandler specific Customizations are as follows.
+**DMM1** Watch Face From the top left Complication going across using "Specific" Glucodatahandler Customizations are as follows.
 
 1. Glucose and Trend (big and colored),
 2. Delta big,
@@ -89,7 +45,7 @@ https://github.com/NightscoutFoundation/xDrip/releases
 4. Glucose time stamp
 5. Samsung or Google Timer
 
-**DMM2** Watch Face From the top left Complication going across using Glucodatahandler specific Customizations are as follows.
+**DMM2** Watch Face From the top left Complication going across using "Specific"  Glucodatahandler  Customizations are as follows.
 
 1. Glucose and Trend (big and colored),
 2. Delta big,
@@ -98,7 +54,7 @@ https://github.com/NightscoutFoundation/xDrip/releases
 5. Glucose time stamp
 6. Watch Battery Level
 
-**DMM3** Universal Watch Face for Libre 3, Dexcom G7 using GlucodataHandler specific Customizations
+**DMM3** Universal Watch Face for Libre 3, Dexcom G7 using "Specific"  Glucodatahandler  Customizations
 
 1. Glucose and Trend (big and Colored)
 2. Delta Big
@@ -107,7 +63,7 @@ https://github.com/NightscoutFoundation/xDrip/releases
 5. Samsung Heart Rate Monitor
 6. Watch Battery Level
 
-**DMM4** Watch Face From the top left Complication going across using Glucodatahandler specific Customizations are as follows.
+**DMM4** Watch Face From the top left Complication going across using "Specific"  Glucodatahandler  Customizations are as follows.
 
 1. Glucose time stamp
 2. Glucose and Trend (big and colored),
@@ -117,13 +73,12 @@ https://github.com/NightscoutFoundation/xDrip/releases
 6. Watch Battery Level
 
 
-## Watch Face Installation Just Got Easier
-**Apk Installation File have been created for easy installation of Watch Faces.**
+## Installing the Apk Watch Face File
 
 Download Wear Installer 2 App from Play Store Here:
 https://play.google.com/store/apps/details?id=org.freepoc.wearinstaller2&hl=en_US
 
-Then Follow the Well written Instructions on the App on how to install apks. That It.. Enjoy!!!** 
+Then Follow the Well written Instructions on the App on how to install apk's. That It.. Enjoy!!!** 
 
 
 ## Installation ADVANCED!
@@ -184,6 +139,50 @@ Remember, after Successful Installation. Disable, ADB and Wireless Debugging, Di
 
 As you can see, from the above I had allot of problems installing these watch faces. But with persistence it worked. I'm sorry I don't know how to make this easier. I spend endless hours trying to solve, The Troubleshooting Above seemed to fix the issue. On Samsung Developer Site, you will be able to see I'm not the only one with this issue and they really offered no Help. 
 Here: https://forum.developer.samsung.com/t/run-on-device-problem/20008/55
+
+
+
+# **Additional Information about Watch Face Studio and Additional GitHub .wfs Files**
+
+
+
+
+## Program Needed for Watch Face Installation
+
+**Download Samsung Watch Face Studio**
+
+WatchFaceStudio_1.7.9.exe or Higher ONLY For Wear OS 5): https://developer.samsung.com/watch-face-studio/download.html
+
+**Download Samsung Watch Face Studio for Wear OS 4**
+
+WatchFaceStudio_1.6.10.exe for Wear OS 4 only. Watch faces found Here: "[Wear OS 4 Compatible Watch Faces](https://github.com/sderaps/DMM/tree/main/Wear%20OS%204%20Compatible%20Watch%20faces)
+
+## Wear OS 4 Watch Faces
+
+Similar Watch Faces with using WatchFaceStudio_1.6.1.0, which are  compatible with Wear OS 4. You can find those watch faces in File Folder Here: [Wear OS 4 Watch Faces](https://github.com/sderaps/DMM/tree/main/Wear%20OS%204%20Compatible%20Watch%20faces)
+
+## Warning!
+
+These watch face complications uses very specific glucodatahandler customization. Other customizations will "NOT" look right and the font will be tiny or oversized.  You have my permission to download, alter and use the *.wfs file to fit your personal needs. 
+
+*These Watch Faces Were created specifically because of Googles Wear OS Changes on Wear OS 5, making Watch Face Apps Currently Like Pujie Watch Faces no longer Compatible. 
+
+**Older Versions of Wear OS Watches, Will not work with watch faces posted on the Main Page. You must go to folder HERE "[Wear OS 4 Compatible Watch Faces](https://github.com/sderaps/DMM/tree/main/Wear%20OS%204%20Compatible%20Watch%20faces)". I know they work and have been tested with Galaxy Watch 6 44mm. Keep in mind you must use WatchFaceStudio_1.6.10.exe to "Run on Device" Install.  
+
+** For older versions of Wear OS Watches, You also might be able to find a good watch face setups and a simple tutorial on my Youtube channel: Diabetic Masked Man , Link is at the Bottom in the "About Me" section of the Page.  
+
+## Summary
+Oversized watch faces for MDI Injections with Extra Large Complications for the visually impaired.  Works with Dexcom G7, Xdrip+, Libre 3 and other CGMs supported by GlucoDataHandler Android App for the current (Galaxy watch 7 or Pixel Watch 3). The  Complications used are very specific to the watch face using  GlucodataHandler app on phone and watch. Installing the watch face on Wear OS 5 is a bit complicated, and you have to use WatchFaceStudio_1.7.9.exe or Higher program. You Load the *.wfs file and send it to watch via ADB using the Function "Run on Watch" in the Watch Face Studio PC Application. Detailed install instructions below.
+
+**GlucodataHandler Android App** 
+Google Play Go Here:
+https://play.google.com/store/apps/details?id=de.michelinside.glucodatahandler&hl=en_US
+
+**Xdrip+ Android App ** 
+Stable Build Here
+https://xdrip.readthedocs.io/en/latest/install/download/
+Nightly Build Here:
+https://github.com/NightscoutFoundation/xDrip/releases
 
 
 ## About Me
