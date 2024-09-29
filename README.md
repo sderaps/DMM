@@ -41,11 +41,10 @@
 
 **DMM1** Watch Face From the top left Complication going across using "Specific" Glucodatahandler Customizations are as follows.
 
-1. Glucose and Trend (big and colored),
-2. Delta big,
-3. IOB
-4. Glucose time stamp
-5. Samsung or Google Timer
+1. Delta (Big)
+2. Glucose and Trend (big and colored),
+3. Glucose time stamp
+
 
 **DMM2** Watch Face From the top left Complication going across using "Specific"  Glucodatahandler  Customizations are as follows.
 
