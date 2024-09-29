@@ -28,12 +28,7 @@
 
 ![DMM4](https://raw.githubusercontent.com/sderaps/DMM/main/DMM4_DexcomG7_Xdrip.jpg)
 
-## Wear OS Watch Faces for Other CGMs, using GlucodataHandler Complications
 
-
-[DMM3_Universal.wfs](https://github.com/sderaps/DMM/blob/ebc463ef4a033574e918236807612a5fc479a4ea/DMM3_Universal.wfs)
-
-![DMM3](https://raw.githubusercontent.com/sderaps/DMM/main/DMM3%20Universal.jpg)
 
 
 
@@ -44,7 +39,7 @@
 1. Delta (Big)
 2. Glucose and Trend (big and colored),
 3. Glucose time stamp
-
+-----
 
 **DMM2** Watch Face From the top left Complication going across using "Specific"  Glucodatahandler  Customizations are as follows.
 
@@ -54,15 +49,10 @@
 4. Samsung or Google Timer
 5. Glucose time stamp
 6. Watch Battery Level
+------
+**DMM3**  Removed
 
-**DMM3** Universal Watch Face for Libre 3, Dexcom G7 using "Specific"  Glucodatahandler  Customizations
-
-1. Glucose and Trend (big and Colored)
-2. Delta Big
-3. Glucose Time stamp
-4. Samsung or Google Timer
-5. Samsung Heart Rate Monitor
-6. Watch Battery Level
+-----
 
 **DMM4** Watch Face From the top left Complication going across using "Specific"  Glucodatahandler  Customizations are as follows.
 
@@ -152,15 +142,8 @@ Here: https://forum.developer.samsung.com/t/run-on-device-problem/20008/55
 
 **Download Samsung Watch Face Studio**
 
-WatchFaceStudio_1.7.9.exe or Higher ONLY For Wear OS 5): https://developer.samsung.com/watch-face-studio/download.html
+WatchFaceStudio_1.6.10.exe for Wear OS Watch faces found Here: "
 
-**Download Samsung Watch Face Studio for Wear OS 4**
-
-WatchFaceStudio_1.6.10.exe for Wear OS 4 only. Watch faces found Here: "[Wear OS 4 Compatible Watch Faces](https://github.com/sderaps/DMM/tree/main/Wear%20OS%204%20Compatible%20Watch%20faces)
-
-## Wear OS 4 Watch Faces
-
-Similar Watch Faces with using WatchFaceStudio_1.6.1.0, which are  compatible with Wear OS 4. You can find those watch faces in File Folder Here: [Wear OS 4 Watch Faces](https://github.com/sderaps/DMM/tree/main/Wear%20OS%204%20Compatible%20Watch%20faces)
 
 ## Warning!
 
@@ -168,7 +151,6 @@ These watch face complications uses very specific glucodatahandler customization
 
 *These Watch Faces Were created specifically because of Googles Wear OS Changes on Wear OS 5, making Watch Face Apps Currently Like Pujie Watch Faces no longer Compatible. 
 
-**Older Versions of Wear OS Watches, Will not work with watch faces posted on the Main Page. You must go to folder HERE "[Wear OS 4 Compatible Watch Faces](https://github.com/sderaps/DMM/tree/main/Wear%20OS%204%20Compatible%20Watch%20faces)". I know they work and have been tested with Galaxy Watch 6 44mm. Keep in mind you must use WatchFaceStudio_1.6.10.exe to "Run on Device" Install.  
 
 ** For older versions of Wear OS Watches, You also might be able to find a good watch face setups and a simple tutorial on my Youtube channel: Diabetic Masked Man , Link is at the Bottom in the "About Me" section of the Page.  
 
