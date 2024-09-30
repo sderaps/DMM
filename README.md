@@ -18,16 +18,16 @@
 [DMM1_WearOS_Watchface](https://github.com/sderaps/DMM/blob/main/DMM1_WearOS_Watchface.wfs) for Xdrip+ and GlucodataHandler (for  Editing)
 
 ![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM1_WearOS_Watchface.jpg)
-
+------
 [DMM2_DexcomG7_Xdrip.wfs](https://github.com/sderaps/DMM/blob/a99a45b547c678e245dffda8d8a1cd8d0372e177/DMM2_DexcomG7_Xdrip.wfs) for Editing
 
 ![DMM2](https://raw.githubusercontent.com/sderaps/DMM/main/DMM2_Dexcom_G7_Xdrip.jpg)
-
+------
 [DMM4_Dexcom G7_Xdrip.wfs](https://github.com/sderaps/DMM/blob/main/Dmm4_DexcomG7_Xdrip.wfs%29%20%5BDMM4.apk) for Editing
 
 
 ![DMM4](https://raw.githubusercontent.com/sderaps/DMM/main/DMM4_DexcomG7_Xdrip.jpg)
-
+-----
 
 
 
