@@ -1,10 +1,10 @@
 # Welcome to Diabetic Masked Man!
 
-## Diabetic Oversized Watch Faces For MDI Injection Created with Samsung Watch Face Studio that are Compatible with Wear OS 5+ , and Wear OS 4 (Both Tested) using GlucodataHandler for the Visually Impaired.
+## Diabetic Oversized Watch Faces For MDI Injection Created with Samsung Watch Face Studio that are Compatible with Wear OS 3, 4, 5 with GlucodataHandler for the Visually Impaired.
 
 **Current Wear OS 5 Compatible Watches: Pixel Watch 3 , Galaxy Watch 7** 
 
-## Wear OS Watch Faces for Dexcom G7, Xdrip+, using GlucodataHandler Complications
+## Wear OS Watch Faces Designed for Xdrip+ for use with Dexcom, Libre and other CGM's Supported by Xdrip+ and GlucodataHandler Complications
 
 **Please Note :** These Watch Faces will also work with **Libre 3, with Juggulco** , and then using xdrip+ Hardware data source as Libre(Patched app) in Settings, However there is a delay in Blood Sugar Readings to xdrip+. There may also be others but untested.
 
@@ -15,11 +15,11 @@
 
 ----
 
-[DMM1_WearOS_Watchface](https://github.com/sderaps/DMM/blob/main/DMM1_WearOS_Watchface.wfs) for Xdrip+ and GlucodataHandler (for  Editing)
+[DMM1_WearOS_Watchface](https://github.com/sderaps/DMM/blob/main/DMM1_WearOS_Watchface.wfs) for Xdrip+ and GlucodataHandler, Juggluco  (.wfs Provided for Personal Customization Editing)
 
 ![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM1_WearOS_Watchface.jpg)
 ------
-[DMM2_WearOS_WatchFace.wfs](https://github.com/sderaps/DMM/blob/main/DMM2_WearOS_WatchFace.wfs) for Editing
+[DMM2_WearOS_WatchFace.wfs](https://github.com/sderaps/DMM/blob/main/DMM2_WearOS_WatchFace.wfs) Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization Editing)
 
 
 ![DMM2](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM2_WearOS_Watchface.jpg)
