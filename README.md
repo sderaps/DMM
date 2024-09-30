@@ -42,7 +42,7 @@
 3. Glucose time stamp
 -----
 
-**DMM2** Watch Face From the top left Complication going across using "Specific"  Glucodatahandler  Customizations are as follows.
+**DMM2** Watch Face ( Includes a Step counter below the Time) From the top left Complication going across using "Specific"  Glucodatahandler  Customizations are as follows.
 
 1. Glucose and Trend (big and colored),
 2. Delta big,
