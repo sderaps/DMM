@@ -6,7 +6,7 @@
 
 ## Wear OS Watch Faces Designed for Xdrip+ for use with Dexcom, Libre and other CGM's Supported by Xdrip+ and GlucodataHandler Complications
 
-**Please Note :** These Watch Faces will also work with **Libre 3, with Juggulco** , and then using xdrip+ Hardware data source as Libre(Patched app) in Settings, However there is a delay in Blood Sugar Readings to xdrip+. There may also be others but untested.
+**Please Note :** These Watch Faces will also work with **Libre 3, with Juggulco** , and then using xdrip+ Hardware data source as Libre(Patched app) in Settings, However there is a delay in Blood Sugar Readings to Watch Face. There may also be other CGM's but untested.
 
 **Xdrip+** is my Main Go to Software for Diabetes Management using the Predictive Simulation Graphs showing Insulin Action, IOB, and Recording Insulin Dosing. 
 
@@ -15,19 +15,21 @@
 
 ----
 
-[DMM1_WearOS_Watchface](https://github.com/sderaps/DMM/blob/main/DMM1_WearOS_Watchface.wfs) for Xdrip+ and GlucodataHandler, Juggluco  (.wfs Provided for Personal Customization Editing)
+[DMM1_WearOS_Watchface](https://github.com/sderaps/DMM/blob/main/DMM1_WearOS_Watchface.wfs) 
+Designed for Xdrip+ and GlucodataHandler, Juggluco  (.wfs Provided for Personal Customization Editing)
 
 ![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM1_WearOS_Watchface.jpg)
 ------
-[DMM2_WearOS_WatchFace.wfs](https://github.com/sderaps/DMM/blob/main/DMM2_WearOS_WatchFace.wfs) Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization Editing)
+[DMM2_WearOS_WatchFace.wfs](https://github.com/sderaps/DMM/blob/main/DMM2_WearOS_WatchFace.wfs) 
+Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization Editing)
 
 
 ![DMM2](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM2_WearOS_Watchface.jpg)
 ------
-[DMM4_Dexcom G7_Xdrip.wfs](https://github.com/sderaps/DMM/blob/main/Dmm4_DexcomG7_Xdrip.wfs%29%20%5BDMM4.apk) for Editing
+[DMM4_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/d31808b46edd9d35c63fabf13f13fbea701757cf/DMM4_WearOS_Watchface.wfs)
+Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization Editing)
 
-
-![DMM4](https://raw.githubusercontent.com/sderaps/DMM/main/DMM4_DexcomG7_Xdrip.jpg)
+![DMM4](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM4_WearOS_Watchface.jpg)
 -----
 
 
@@ -35,7 +37,7 @@
 
 ## Watch Face Specific Customizations
 
-**DMM1** Watch Face From the top left Complication going across using "Specific" Glucodatahandler Customizations are as follows.
+**DMM1** Watch Face From the top left Complication going across using "Specific" Glucodatahandler Customizations are as follows. 
 
 1. Delta (Big)
 2. Glucose and Trend (big and colored),
