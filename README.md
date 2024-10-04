@@ -162,7 +162,7 @@ Here: https://forum.developer.samsung.com/t/run-on-device-problem/20008/55
 
 **Download Samsung Watch Face Studio**
 
-WatchFaceStudio_1.6.10.exe for Wear OS Watch faces found Here: "
+WatchFaceStudio_1.6.10.exe for Wear OS Watch faces found Here: " (https://developer.samsung.com/watch-face-studio/download.html)
 
 
 ## Warning!
