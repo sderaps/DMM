@@ -29,7 +29,8 @@ Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization E
 
 
 
-[DMM3_WearOS_Watchface.wfs](DMM3_WearOS_Watchface.wfs)
+[DMM3_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/7d3a663575691bddef39154d5cf749ac1a254ceb/DMM3_WearOS_Watchface.wfs)  Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization Editing)
+
 
 
 ![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM3_WearOS_Watchface.jpg)
