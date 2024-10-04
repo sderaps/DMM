@@ -10,7 +10,7 @@
 
 **Xdrip+** is my Main Go to Software for Diabetes Management using the Predictive Simulation Graphs showing Insulin Action, IOB, and Recording Insulin Dosing. 
 
-[Click Here for the Latest Releases](https://github.com/sderaps/DMM/releases/tag/v1.0.2)
+[Click Here for the Latest Releases](https://github.com/sderaps/DMM/releases/tag/v1.0.1)
 
 
 ----
@@ -26,6 +26,19 @@ Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization E
 
 ![DMM2](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM2_WearOS_Watchface.jpg)
 ------
+
+
+
+[DMM3_WearOS_Watchface.wfs](DMM3_WearOS_Watchface.wfs)
+
+
+![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM3_WearOS_Watchface.jpg)
+
+---------------
+
+
+
+
 [DMM4_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/d31808b46edd9d35c63fabf13f13fbea701757cf/DMM4_WearOS_Watchface.wfs)
 Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization Editing)
 
@@ -65,8 +78,11 @@ Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization E
 5. Glucose time stamp
 6. Watch Battery Level
 ------
-**DMM3**  Removed
+**DMM3**  Watch Face ( Includes a Step counter below the Time) From the top left Complication going across using "Specific"  Glucodatahandler  Customizations are as follows.
 
+1. Delta Big
+2. Glucose Very Big and Colored
+3. Trend ( Big Colored)
 -----
 
 **DMM4** Watch Face From the top left Complication going across using "Specific"  Glucodatahandler  Customizations are as follows.
@@ -162,7 +178,7 @@ Here: https://forum.developer.samsung.com/t/run-on-device-problem/20008/55
 
 **Download Samsung Watch Face Studio**
 
-WatchFaceStudio_1.6.10.exe for Wear OS Watch faces found Here: " (https://developer.samsung.com/watch-face-studio/download.html)
+WatchFaceStudio_1.6.10.exe for Wear OS Watch faces found Here: "
 
 
 ## Warning!
