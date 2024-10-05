@@ -46,7 +46,9 @@ Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization E
 ![DMM4](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM4_WearOS_Watchface.jpg)
 -----
 [DMM_KIDS_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/cf8c92f8005ecddd7f6c186d7f582400d6657553/DMM_KIDS_WearOS_Watchface.wfs)
+
 Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization Editing)
+
 ![DMMKIDS](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM_KIDS.jpg)
 
 
