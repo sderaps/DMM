@@ -46,19 +46,10 @@ Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization E
 ![DMM4](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM4_WearOS_Watchface.jpg)
 -----
 
-[DMM_KIDS_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/6b0a230fc3cc772f0eebf62d4f9563222470a5c3/DMM_KIDS_WearOS_Watchface.wfs)  
-
-![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMMKIDS1.jpg)
-
-
-
-
-
-
-
-
-
+[DMM_KIDS_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/e3f103a48467f293ede5dfd0090f5c9c6734138f/DMM_KIDS_WearOS_Watchface.wfs)
 Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization Editing)
+![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM_KIDS.jpg)
+
 
 -------
 ## Watch Face Specific Customizations
