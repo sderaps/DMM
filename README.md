@@ -22,7 +22,7 @@ My Results with Different Setups:
  
 **Xdrip+** is my Main Go to Software for Diabetes Management using the Predictive Simulation Graphs showing Insulin Action, IOB, and Recording Insulin Dosing. 
 
-[Click Here for the Latest Releases](https://github.com/sderaps/DMM/releases/tag/v1.0.1)
+[Click Here for the Latest Releases](https://github.com/sderaps/DMM/releases/tag/v1.0.2)
 
 
 ----
