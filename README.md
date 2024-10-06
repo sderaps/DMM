@@ -4,10 +4,22 @@
 
 **Current Wear OS 5 Compatible Watches: Pixel Watch 3 , Galaxy Watch 7** 
 
+# Latest News
+**I've applied for a Google Play Store Account and am in the works of eventually getting some watch faces uploaded to google play store. I Need watch face testers prior to getting the faces published so if you interested let me know on Facebook. https://www.facebook.com/profile.php?id=100084004410631**
+
+
+ 
+
+
 ## Wear OS Watch Faces Designed for Xdrip+ for use with Dexcom, Libre and other CGM's Supported by Xdrip+ and GlucodataHandler Complications
 
-**Please Note :** These Watch Faces will also work with **Libre 3, with Juggulco** , and then using xdrip+ Hardware data source as Libre(Patched app) in Settings, However there is a delay in Blood Sugar Readings to Watch Face. There may also be other CGM's but untested.
+**Please Note :** 
+My Results with Different Setups:
+1. Libre 3, Direct to Juggulco, then sending to xdrip+ for IOB tracking, (Hardware data source as Libre(Patched app) then to Glucodatahandler resulted in Very long unacceptable "unreliable" delays in readings on watch.
 
+2. Libre 3, using xdrip+ Hardware data Source(Web Follower), worked well with Glucodatahandler, and tracking insulin in xdrip+, but you need reliable WIFI. SO NOT GOOD FOR ME!!! 
+3. Dexcom G7 to xdrip+ Hardware Data Source (Companion App) works very well with min delays. I'm assuming Dexcom  Share Results would be about the same.  
+ 
 **Xdrip+** is my Main Go to Software for Diabetes Management using the Predictive Simulation Graphs showing Insulin Action, IOB, and Recording Insulin Dosing. 
 
 [Click Here for the Latest Releases](https://github.com/sderaps/DMM/releases/tag/v1.0.1)
@@ -206,4 +218,5 @@ I'm just a Type 1 diabetic that is trying to find solutions for myself and findi
 
 
 ## God Bless
+
 
