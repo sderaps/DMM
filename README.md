@@ -5,13 +5,13 @@
 **Current Wear OS 5 Compatible Watches: Pixel Watch 3 , Galaxy Watch 7** 
 
 # Latest News
-**I've upload watch faces to google play store for testing. I Need watch face testers prior to getting the faces published so if you interested. Go to the current release page for more information. https://github.com/sderaps/DMM/releases/tag/v1.0.2
+I've upload watch faces to google play store for testing. I Need watch face testers prior to getting the faces published so if you interested. Go to the current release page for more information. [https://github.com/sderaps/DMM/releases/tag/v1.0.2](https://github.com/sderaps/DMM/releases/tag/v1.0.2)
 
 
  
 
 
-## Wear OS Watch Faces Designed for Xdrip+ for use with Dexcom, Libre and other CGM's Supported by Xdrip+ and GlucodataHandler Complications
+## Wear OS Watch Faces Designed for Glucodatahandler Customizations for use with Dexcom, Libre and other CGM's 
 
 **Please Note :** 
 My Results with Different Setups:
@@ -42,7 +42,6 @@ Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization E
 
 
 [DMM3_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/7d3a663575691bddef39154d5cf749ac1a254ceb/DMM3_WearOS_Watchface.wfs)  Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization Editing)
-
 
 
 ![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM3_WearOS_Watchface.jpg)
