@@ -3,7 +3,7 @@ PRIVACY POLICY
 
 - 1. Personal Information:
 
-- We do NOT collect any Personal Information about you. “Personal Information” means personally identifiable information, such as your name, physical address, calendar entries, contact entries, files, photos, etc. However we do store any email addresses on google play console if you are opted in to be part of the internal testing phase prior to google play approval of our watch face. If you are not an internal tester then we will not have your email. 
+- We do NOT collect any Personal Information about you. “Personal Information” means personally identifiable information, such as your name, physical address, calendar entries, contact entries, files, photos, etc. However we do store any email addresses on google play console if you are "opted in" to be part of the "internal testing phase" prior to google play approval of our watch face. If you are not an internal tester then we will not have your email. 
 
 - 2. Non-Personal Information:
 
