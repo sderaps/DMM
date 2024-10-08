@@ -5,7 +5,7 @@
 **Current Wear OS 5 Compatible Watches: Pixel Watch 3 , Galaxy Watch 7** 
 
 # Latest News
-**I've upload watch faceto google play store for testing. I Need watch face testers prior to getting the faces published so if you interested. Go to the current release page for more information. https://github.com/sderaps/DMM/releases/tag/v1.0.2
+**I've upload watch faces to google play store for testing. I Need watch face testers prior to getting the faces published so if you interested. Go to the current release page for more information. https://github.com/sderaps/DMM/releases/tag/v1.0.2
 
 
  
