@@ -1,23 +1,21 @@
-PRIVACY POLICY
-- ​What information we collect
+Privacy Policy
 
-- 1. Personal Information:
+Information We Collect
 
-- We do NOT collect any Personal Information about you. “Personal Information” means personally identifiable information, such as your name, physical address, calendar entries, contact entries, files, photos, etc. However we do store any email addresses on google play console if you are "opted in" to be part of the "internal testing phase" prior to google play approval of our watch face. If you are not an internal tester then we will not have your email. 
+Personal Information:
+We do NOT collect any Personal Information about you. “Personal Information” refers to identifiable information such as your name, address, calendar entries, contact details, files, photos, etc. The only exception is that we may store email addresses from users who are “opted in” for the internal testing phase of our watch face before it’s approved on Google Play. If you are not an internal tester, we will not have your email.
 
-- 2. Non-Personal Information:
+Non-Personal Information:
+Our watch faces are created using Samsung Watch Face Studio, which may collect data independently. For details on their data collection practices, please refer to the Samsung Watch Face Studio privacy policy.
 
-- Samsung Watch Face Studio was used to create any watch faces offered on my play store, and I do not have any control of information collected. You would need to refer to Samsung Watch Face studio privacy policy.  
+Location Services:
+We do NOT request, collect, or access your location information.
 
-- 3. Location Services:
+Third-Party Apps/Links:
+Our Google Play store includes links to third-party applications, such as Glucodatahandler for mobile and Wear OS. We are not responsible for the privacy practices of these third parties and recommend that you review their privacy policies.
 
-- We do NOT request, collect, or access your location information.
+Security:
+We prioritize the security of your information. Although we do not collect Personal Information, we implement administrative, physical, and electronic measures to protect any Non-Personal Information from unauthorized access and use.
 
-THIRD PARTY APPS / LINKS
-- On Google play we have information links for Glucodatahandler mobile and wear os applications. When you click their links on our google play store. We are not responsible for the privacy practices adopted by third parties. We recommend that you read their privacy policies.
-
-SECURITY
-- We are very concerned about safeguarding the confidentiality of your information. We do not collect Personal Information, and we employ administrative, physical and electronic measures designed to protect your Non-Personal Information from unauthorized access and use.
-
-Your Privacy
-- We do not store or retain any personal information that can be used to identify you, except your email address specifically during the testing phase prior to google play approval. No data specific to the end user will be shared or sold to third parties. We have no interest in housing and storing users personal information or data.
+Your Privacy:
+We do not store or retain any Personal Information that could identify you, except for email addresses collected during the testing phase prior to Google Play approval. We do not share or sell any user-specific data to third parties. Our goal is to ensure that we do not house or store personal information unnecessarily.
