@@ -56,13 +56,6 @@ Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization E
 
 ![DMM4](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM4_WearOS_Watchface.jpg)
 -----
-[DMM_KIDS_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/cf8c92f8005ecddd7f6c186d7f582400d6657553/DMM_KIDS_WearOS_Watchface.wfs)
-
-Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization Editing)
-
-![DMMKIDS](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM_KIDS.jpg)
-
-
 
 -------
 ## Watch Face Specific Customizations
@@ -98,12 +91,6 @@ Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization E
 4. Samsung or Google Timer
 5. Delta big
 6. Watch Battery Level
-
-**DMMKIDS**  Watch Face From the top left Complication going across using “Specific” Glucodatahandler Customizations are as follows.
-
-1.  Delta (Big)
-2.  Glucose and Trend (big and colored),
-3.  Glucose time stamp
 
 ## Installing the Apk Watch Face File
 
