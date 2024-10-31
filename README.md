@@ -56,6 +56,10 @@ Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization E
 
 ![DMM4](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM4_WearOS_Watchface.jpg)
 -----
+[DMM5_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/main/DMM5_WearOS_Watchface.wfs)
+Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization Editing)
+![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM5%20175.jpg)
+
 
 -------
 ## Watch Face Specific Customizations
@@ -91,6 +95,15 @@ Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization E
 4. Samsung or Google Timer
 5. Delta big
 6. Watch Battery Level
+_____
+
+**DMM5** Watch Face From the top left Complication going across using "Specific"  Glucodatahandler  Customizations are as follows.
+1. Delta big
+2. Glucose time stamp
+3. Glucose and Trend (big and colored),
+4. IOB
+5. Samsung or Google Timer
+6. Blose Watch App Graph, From Dexcom Share or Libre Linkup 
 
 ## Installing the Apk Watch Face File
 
