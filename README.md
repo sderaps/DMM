@@ -60,7 +60,7 @@ Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization E
 [DMM5_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/main/DMM5_WearOS_Watchface.wfs)
 Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization Editing)
 
-![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM5%20175.jpg)
+![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM5_175.jpg)
 
 
 -------
