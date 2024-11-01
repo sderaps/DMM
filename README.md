@@ -101,7 +101,7 @@ _____
 
 **DMM5** Watch Face From the top left Complication going across using "Specific"  Glucodatahandler  Customizations are as follows.
 1. Samsung or Google Timer or other
-2. Delta and Timestamp Big ( Beta Version GlucodataHandler)
+2. Delta and Timestamp Big (GlucodataHandler v1.2 or higher)
 3. Glucose and Trend (big and colored),
 4. IOB
 5. Blose Watch App Graph, From Dexcom Share or Libre Linkup 
