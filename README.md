@@ -52,13 +52,13 @@ Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization E
 
 
 [DMM4_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/d31808b46edd9d35c63fabf13f13fbea701757cf/DMM4_WearOS_Watchface.wfs)
-Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization Editing)
+Designed for Xdrip+ or Juggluco using GlucoDataHandler (.wfs Provided for Personal Customization Editing)
 
 
 ![DMM4](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM4_WearOS_Watchface.jpg)
 -----
 [DMM5_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/main/DMM5_WearOS_Watchface.wfs)
-Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization Editing)
+Designed for Xdrip+ using GlucoDataHandler and Blose Graph Customization, Blose Graph for Juggluco (Untested)  (.wfs Provided for Personal Customization Editing)
 
 ![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM5_175px.png)
 
