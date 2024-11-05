@@ -61,7 +61,12 @@ Designed for Xdrip+ or Juggluco using GlucoDataHandler (.wfs Provided for Person
 Designed for Xdrip+ using GlucoDataHandler and Blose Graph Customization, Blose Graph for Juggluco (Untested)  (.wfs Provided for Personal Customization Editing)
 
 ![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM5_175px.png)
+______
 
+[DMM6_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/937a17fe60eb6833a6619e25b4456d53cde1736c/DMM6_WearOS_Watchface.wfs)
+Designed for Xdrip+ or Juggluco using GlucoDataHandler v1.2 or higher(.wfs Provided for Personal Customization Editing)
+
+![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM6_175PX.png)
 
 -------
 ## Watch Face Specific Customizations
@@ -105,7 +110,13 @@ _____
 3. Glucose and Trend (big and colored),
 4. IOB
 5. Blose Watch App Graph, From Dexcom Share or Libre Linkup 
-
+______
+**DMM6** Watch Face From the top left Complication going across using "Specific"  Glucodatahandler  V1.2 or Higher
+Customizations are as follows.
+1. Phone Battery
+2. Glucose and Trend ( Big and Colored)
+3. Watch Battery
+______
 ## Installing the Apk Watch Face File
 
 Download Wear Installer 2 App from Play Store Here:
