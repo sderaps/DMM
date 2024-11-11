@@ -69,6 +69,15 @@ Designed for Xdrip+ or Juggluco using GlucoDataHandler v1.2 or higher(.wfs Provi
 ![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM6_175.png)
 
 -------
+[DMM7_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/ba1a092bc7c98ce356a993cfca8acab415171248/DMM7_WearOS_Watchface.wfs)
+
+Designed for Xdrip+ or Juggluco using GlucoDataHandler v1.2 or higher(.wfs Provided for Personal Customization Editing)
+
+![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM7_175.png)
+
+
+
+_______
 ## Watch Face Specific Customizations
 
 **DMM1** Watch Face From the top left Complication going across using "Specific" Glucodatahandler Customizations are as follows. 
@@ -111,12 +120,24 @@ _____
 4. IOB
 5. Blose Watch App Graph, From Dexcom Share or Libre Linkup 
 ______
-**DMM6** Watch Face From the top left Complication going across using "Specific"  Glucodatahandler  V1.2 or Higher
+
+**DMM6** Watch Face From the top left Complication going across using "Specific"  Glucodatahandler  
 Customizations are as follows.
 1. Phone Battery
 2. Glucose and Trend ( Big and Colored)
 3. Watch Battery
 ______
+**DMM7** Watch Face From the top left Complication going across using "Specific"  Glucodatahandler  V1.2 or Higher and Blose Watch App for Wear OS 5 ONLY
+Customizations are as follows.
+1. Blose “Graph” only ( Wear OS 5 Devices Only)
+2. Phone Battery Level
+3. IOB
+4. Watch Battery Level
+5. Blose Glucose (Use for Stale Graph Notification) if No Data
+6. Delta and Time Stamp Big (Glucodatahandler v1.2 Beta)
+7. Glucose and Trend Big and Colored
+8. Heart Rate or Timer or Other
+____
 ## Installing the Apk Watch Face File
 
 Download Wear Installer 2 App from Play Store Here:
