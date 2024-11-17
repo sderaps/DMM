@@ -155,9 +155,7 @@ Samsung Watch Face Studio Gave me allot of problems connecting to my watches dur
 
 Step 1. Connect your watch and computer to the same Wi-Fi network
 
-Step 2. On your Watch Go to Settings/Connections and Turn off Bluetooth.
-
-Step 3. Enable Developer Options on Watch go to Settings > About device > Software info, then tap the Build number until “Developer options enabled” appears on the screen. Swipe the screen "left to right" to Go back and select Developer Options at the bottom of /settings
+Step 2. Enable Developer Options on Watch go to Settings > About device > Software info, then tap the Build number until “Developer options enabled” appears on the screen. Swipe the screen "left to right" to Go back and select Developer Options at the bottom of /settings
 
 Step 4. Put your watch on a usb charger and open Developer Options select “Stay awake when charging” select “ADB Debugging” select “wireless debugging then check wireless debugging in enabled,
  
@@ -171,38 +169,9 @@ This watch background are basic because I cannot create an .apk installation fil
 
 ## Troubleshooting Watch Face Installation! 
 
-1. "Run of Device" Does nothing and Runs forever! 
-Note:  If "Run on Device" is trying to send the watchface to watch and does nothing for over 2 minutes. Do This! 
+Make sure all your files are on local storage, not in a synced folder like Dropbox or Google Drive, or you will have problems. 
 
-2. Close out Watch Face Studio and Reboot PC
-
-3. Go to Watch and "Revoke debugging Authorizations in Developer Settings
-
-4. Turn Off Wireless Debugging
-
-5. Turn Off ADB Debugging
-
-6. Turn Off Smart Watch and boot again.
-
-7. On Watch Make sure Bluetooth is Off
-
-8. Turn "ON" WIFI and Make Sure Wifi is the Same Address on both Watch and PC. 
-
-9. Open Watch Face Studio on PC, and load the watch face
-
-10. Click "Run on Watch" then select the "+"
-
-11. Now go back to watch, and turn on ADB Debugging, Click on Check Mark to Allow. 
-
-12. Go to Wireless Debugging, Toggel it ON, Then Click "allow" for Network.
-
-13. Scroll Down and follow procedure Described In (Step 6 Installation Instructions.
-
-This Should Work, If Not, Keep Doing this same procedure over and over until it works.  
-  
-Remember, after Successful Installation. Disable, ADB and Wireless Debugging, Disable Wifi and Enable Bluetooth. Also make sure "Stay Awake While Charging" is turned OFF in Developer Setting. 
-
-As you can see, from the above I had allot of problems installing these watch faces. But with persistence it worked. I'm sorry I don't know how to make this easier. I spend endless hours trying to solve, The Troubleshooting Above seemed to fix the issue. On Samsung Developer Site, you will be able to see I'm not the only one with this issue and they really offered no Help. 
+Run on Device Issues:
 Here: https://forum.developer.samsung.com/t/run-on-device-problem/20008/55
 
 
@@ -218,15 +187,6 @@ Here: https://forum.developer.samsung.com/t/run-on-device-problem/20008/55
 
 WatchFaceStudio_1.6.10.exe for Wear OS Watch faces found Here: "
 
-
-## Warning!
-
-These watch face complications uses very specific glucodatahandler customization. Other customizations will "NOT" look right and the font will be tiny or oversized.  You have my permission to download, alter and use the *.wfs file to fit your personal needs. 
-
-*These Watch Faces Were created specifically because of Googles Wear OS Changes on Wear OS 5, making Watch Face Apps Currently Like Pujie Watch Faces no longer Compatible. 
-
-
-** For older versions of Wear OS Watches, You also might be able to find a good watch face setups and a simple tutorial on my Youtube channel: Diabetic Masked Man , Link is at the Bottom in the "About Me" section of the Page.  
 
 ## Summary
 Oversized watch faces for MDI Injections with Extra Large Complications for the visually impaired.  Works with Dexcom G7, Xdrip+, Libre 3 and other CGMs supported by GlucoDataHandler Android App for the current (Galaxy watch 7 or Pixel Watch 3). The  Complications used are very specific to the watch face using  GlucodataHandler app on phone and watch. Installing the watch face on Wear OS 5 is a bit complicated, and you have to use WatchFaceStudio_1.7.9.exe or Higher program. You Load the *.wfs file and send it to watch via ADB using the Function "Run on Watch" in the Watch Face Studio PC Application. Detailed install instructions below.
