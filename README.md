@@ -59,7 +59,7 @@ Then Follow the Well written Instructions on the App on how to install apk's. Th
 ## Installation from a .WFS File ADVANCED!
 **Good if you want to create your own Watch Face or Customized One of Mine. I have included a File Here called "Watch Face Assets.zip" You will need these files put in your asset directory of Watch face Studio if you want to use the backgrounds and images I used to create the Watch faces.  *
 
-Samsung Watch Face Studio Gave some trouble connecting to my watches during the install "Run On Device",  I found the hard way that you can only use Local Storage when editing WFS files or "Run on Device" Do not use Google Drive or Drop Box as it will not work.. 
+Samsung Watch Face Studio Gave some trouble connecting to my watches during the install "Run On Device",  I found out the hard way that you can only use Local Storage when editing WFS files or "Run on Device" Do not use Google Drive or Drop Box as it will not work.. 
 
 Here are the Steps:
 
