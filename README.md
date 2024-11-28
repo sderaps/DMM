@@ -1,144 +1,49 @@
-# Welcome to Diabetic Masked Man!
+## Welcome to Diabetic Masked Man!
 
-## Diabetic Oversized Watch Faces For MDI Injection Created with Samsung Watch Face Studio that are Compatible with Wear OS 3, 4, 5 with GlucodataHandler for the Visually Impaired.
+Diabetic Oversized Watch Faces For MDI Injection Created with Samsung Watch Face Studio that are Compatible with Wear OS 3, 4, 5 with GlucodataHandler for the Visually Impaired.
 
-**Current Wear OS 5 Compatible Watches: Pixel Watch 3 , Galaxy Watch 7** 
-
-# Latest News
-I've upload watch faces to google play store for testing. I Need watch face testers prior to getting the faces published so if you interested. Go to the current release page for more information. [https://github.com/sderaps/DMM/releases/tag/v1.0.2](https://github.com/sderaps/DMM/releases/tag/v1.0.2)
-
-
+## How can you customize your own Watch face?
  
+All current DMM Diabetic Watch Faces available on the Google Play Store are stored here. The provided .wfs files are intended for personal customization, while APKs are available for sideloading. These files are free exclusively for diabetics who need to customize their own watch faces. Use of these files for profit is strictly prohibited, as all my work is designed for free distribution only.
 
+ ----
+[DMM3_WearOS_Watchface](https://github.com/sderaps/DMM/blob/b3dcc92d59be4aeee671cbc45338b86e66b2293c/DMM3_WearOS_Watchface.wfs)
 
-## Wear OS Watch Faces Designed for Glucodatahandler Customizations for use with Dexcom, Libre and other CGM's 
-
-**Please Note :** 
-My Results with Different Setups:
-1. Libre 3, Direct to Juggulco, then sending to xdrip+ for IOB tracking, (Hardware data source as Libre(Patched app) then to Glucodatahandler resulted in Very long unacceptable "unreliable" delays in readings on watch.
-
-2. Libre 3, using xdrip+ Hardware data Source(Web Follower), worked well with Glucodatahandler, and tracking insulin in xdrip+, but you need reliable WIFI. SO NOT GOOD FOR ME!!! 
-3. Dexcom G7 to xdrip+ Hardware Data Source (Companion App) works very well with min delays. I'm assuming Dexcom  Share Results would be about the same.  
- 
-**Xdrip+** is my Main Go to Software for Diabetes Management using the Predictive Simulation Graphs showing Insulin Action, IOB, and Recording Insulin Dosing. 
-
-[Click Here for the Latest Releases](https://github.com/sderaps/DMM/releases/tag/v1.0.2)
-
-
-----
-
-[DMM1_WearOS_Watchface](https://github.com/sderaps/DMM/blob/main/DMM1_WearOS_Watchface.wfs) 
-Designed for Xdrip+ and GlucodataHandler, Juggluco  (.wfs Provided for Personal Customization Editing)
-
-![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM1_WearOS_Watchface.jpg)
+![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM3_175%20.png)
 ------
-[DMM2_WearOS_WatchFace.wfs](https://github.com/sderaps/DMM/blob/main/DMM2_WearOS_WatchFace.wfs) 
-Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization Editing)
+[DMM4_WearOS_WatchFace.wfs](https://github.com/sderaps/DMM/blob/b3dcc92d59be4aeee671cbc45338b86e66b2293c/DMM4_WearOS_Watchface.wfs)
+![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM4_175.png)
 
-
-![DMM2](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM2_WearOS_Watchface.jpg)
 ------
-
-
-
-[DMM3_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/7d3a663575691bddef39154d5cf749ac1a254ceb/DMM3_WearOS_Watchface.wfs)  Designed for Xdrip+ GlucoDataHandler (.wfs Provided for Personal Customization Editing)
-
-
-![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM3_WearOS_Watchface.jpg)
+[DMM5_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/b3dcc92d59be4aeee671cbc45338b86e66b2293c/DMM5_WearOS_Watchface.wfs)
+![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM5_175.png)
 
 ---------------
-
-
-
-
-[DMM4_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/d31808b46edd9d35c63fabf13f13fbea701757cf/DMM4_WearOS_Watchface.wfs)
-Designed for Xdrip+ or Juggluco using GlucoDataHandler (.wfs Provided for Personal Customization Editing)
-
-
-![DMM4](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM4_WearOS_Watchface.jpg)
------
-[DMM5_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/main/DMM5_WearOS_Watchface.wfs)
-Designed for Xdrip+ using GlucoDataHandler and Blose Graph Customization, Blose Graph for Juggluco (Untested)  (.wfs Provided for Personal Customization Editing)
-
-![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM5_175px.png)
-______
-
-[DMM6_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/937a17fe60eb6833a6619e25b4456d53cde1736c/DMM6_WearOS_Watchface.wfs)
-Designed for Xdrip+ or Juggluco using GlucoDataHandler v1.2 or higher(.wfs Provided for Personal Customization Editing)
+[DMM6_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/b3dcc92d59be4aeee671cbc45338b86e66b2293c/DMM6_WearOS_Watchface.wfs)
 
 ![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM6_175.png)
-
--------
-[DMM7_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/ba1a092bc7c98ce356a993cfca8acab415171248/DMM7_WearOS_Watchface.wfs)
-
-Designed for Xdrip+ or Juggluco using GlucoDataHandler v1.2 or higher(.wfs Provided for Personal Customization Editing)
+____________________
+[DMM7_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/b3dcc92d59be4aeee671cbc45338b86e66b2293c/DMM7_WearOS_Watchface.wfs)
 
 ![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM7_175.png)
+-----
+[DMM8_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/b3dcc92d59be4aeee671cbc45338b86e66b2293c/DMM8_WearOS_Watchface.wfs)
+![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM8_175.png)
+______
+[DMM9_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/b3dcc92d59be4aeee671cbc45338b86e66b2293c/DMM9_WearOS_Watchface.wfs)
 
+![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM9_175.png)
+-------
+[DMMx2_v1DMM10WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/b3dcc92d59be4aeee671cbc45338b86e66b2293c/DMMx2_v1DMM10WearOS_Watchface.wfs)
 
-
+![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMMx2v1_175.png)
 _______
-## Watch Face Specific Customizations
+## Watch Face Specific Customizations can be found on my Web Site Below
+[https://sites.google.com/view/diabeticmaskedman](https://sites.google.com/view/diabeticmaskedman)
 
-**DMM1** Watch Face From the top left Complication going across using "Specific" Glucodatahandler Customizations are as follows. 
 
-1. Delta (Big)
-2. Glucose and Trend (big and colored),
-3. Glucose time stamp
------
 
-**DMM2** Watch Face ( Includes a Step counter below the Time) From the top left Complication going across using "Specific"  Glucodatahandler  Customizations are as follows.
-
-1. Glucose and Trend (big and colored),
-2. Delta big,
-3. IOB
-4. Samsung or Google Timer
-5. Glucose time stamp
-6. Watch Battery Level
-------
-**DMM3**  Watch Face ( Includes a Step counter below the Time) From the top left Complication going across using "Specific"  Glucodatahandler  Customizations are as follows.
-
-1. Delta Big
-2. Glucose Very Big and Colored
-3. Trend ( Big Colored)
------
-
-**DMM4** Watch Face From the top left Complication going across using "Specific"  Glucodatahandler  Customizations are as follows.
-
-1. Glucose time stamp
-2. Glucose and Trend (big and colored),
-3. IOB
-4. Samsung or Google Timer
-5. Delta big
-6. Watch Battery Level
-_____
-
-**DMM5** Watch Face From the top left Complication going across using "Specific"  Glucodatahandler  Customizations are as follows.
-1. Samsung or Google Timer or other
-2. Delta and Timestamp Big (GlucodataHandler v1.2 or higher)
-3. Glucose and Trend (big and colored),
-4. IOB
-5. Blose Watch App Graph, From Dexcom Share or Libre Linkup 
-______
-
-**DMM6** Watch Face From the top left Complication going across using "Specific"  Glucodatahandler  
-Customizations are as follows.
-1. Phone Battery
-2. Glucose and Trend ( Big and Colored)
-3. Watch Battery
-______
-**DMM7** Watch Face From the top left Complication going across using "Specific"  Glucodatahandler  V1.2 or Higher and Blose Watch App for Wear OS 5 ONLY
-Customizations are as follows.
-1. Blose “Graph” only ( Wear OS 5 Devices Only)
-2. Phone Battery Level
-3. IOB
-4. Watch Battery Level
-5. Blose Glucose (Use for Stale Graph Notification) if No Data
-6. Delta and Time Stamp Big (Glucodatahandler v1.2 Beta)
-7. Glucose and Trend Big and Colored
-8. Heart Rate or Timer or Other
-____
-## Installing the Apk Watch Face File
+## Installing the Apk Watch Face Files found in  Current Release. 
 
 Download Wear Installer 2 App from Play Store Here:
 https://play.google.com/store/apps/details?id=org.freepoc.wearinstaller2&hl=en_US
@@ -146,12 +51,14 @@ https://play.google.com/store/apps/details?id=org.freepoc.wearinstaller2&hl=en_U
 Then Follow the Well written Instructions on the App on how to install apk's. That It.. Enjoy!!!** 
 
 
-## Installation ADVANCED!
-**Good if you want to create your own watch face.. Have Fun!!!!**
+## Installation from a .WFS File ADVANCED!
+**Good if you want to create your own watch face.. I also have included a File Here called "Watch Face Assets.zip" You will need these files put in your asset directory of Watch face studio if you want to use backgrounds and images I used to create the Watch faces.  *
 
 ****Installation Instructions for Installing Your own Created Watch Face or Editing one of mine. Using the .wfs File using the (RUN ON DEVICE) command**
 
-Samsung Watch Face Studio Gave me allot of problems connecting to my watches during the install "Run On Device", I had to spend quite allot of time trying to install the watch face over and over again. Here are the Steps:
+Samsung Watch Face Studio Gave me allot of problems connecting to my watches during the install "Run On Device", I had to spend quite allot of time trying to install the watch face over and over again. I found out that you can only use Local Storage Device only when editing WFS files. Do not edit or try to Run on Device using Google Drive or Drop Boz etc. It will not work.. 
+
+Here are the Steps:
 
 Step 1. Connect your watch and computer to the same Wi-Fi network
 
@@ -163,9 +70,7 @@ Step 4. Put your watch on a usb charger and open Developer Options select “Sta
 
 Step 5. Now go to Samsung Watch Face Studio on PC load the file *.WFS then select “Run on Device” Click + next to (scan devices) Add your ip address from your watch (example 192.168.1.106) Then add port number that is after your ip: (example 34669) Then click + on the watch to (Pair new device) Add Pairing code from watch to pairing code empty slot in watch face studio. Then Add Pairing Port Number from ip address at the bottom after Example (192.168.1.106:36749) then enter (36749)
 
-Then select ok in watch face studio, and then click on the Your Watch in Devices and the File will be sent to your watch and the face will appear on your watch in about 16 to 20 seconds. If your waiting more than 2 minutes. Most likely something went wrong with the installation. Close Watch Face Studio and try Again. Persistence will get the Job done, Don't give up!!
-
-This watch background are basic because I cannot create an .apk installation file. So If you want to edit the Watch face background in Watch Face Studio, I've uploaded a few you can choose from, Just put the .png files in your hard drive watch back ground directory in watch studio and add them. 
+Then select ok in watch face studio, and then click on the Your Watch in Devices and the File will be sent to your watch and the face will appear on your watch in about 16 to 20 seconds. If your waiting more than 2 minutes. Most likely something went wrong with the installation. 
 
 ## Troubleshooting Watch Face Installation! 
 
@@ -175,12 +80,6 @@ Run on Device Issues:
 Here: https://forum.developer.samsung.com/t/run-on-device-problem/20008/55
 
 
-
-# **Additional Information about Watch Face Studio and Additional GitHub .wfs Files**
-
-
-
-
 ## Program Needed for Watch Face Installation Using the "Run on Device" Command
 
 **Download Samsung Watch Face Studio**
@@ -188,27 +87,18 @@ Here: https://forum.developer.samsung.com/t/run-on-device-problem/20008/55
 WatchFaceStudio_1.6.10.exe for Wear OS Watch faces found Here: "
 
 
-## Summary
-Oversized watch faces for MDI Injections with Extra Large Complications for the visually impaired.  Works with Dexcom G7, Xdrip+, Libre 3 and other CGMs supported by GlucoDataHandler Android App for the current (Galaxy watch 7 or Pixel Watch 3). The  Complications used are very specific to the watch face using  GlucodataHandler app on phone and watch. Installing the watch face on Wear OS 5 is a bit complicated, and you have to use WatchFaceStudio_1.7.9.exe or Higher program. You Load the *.wfs file and send it to watch via ADB using the Function "Run on Watch" in the Watch Face Studio PC Application. Detailed install instructions below.
-
-**GlucodataHandler Android App** 
-Google Play Go Here:
-https://play.google.com/store/apps/details?id=de.michelinside.glucodatahandler&hl=en_US
-
-**Xdrip+ Android App ** 
-Stable Build Here
-https://xdrip.readthedocs.io/en/latest/install/download/
-Nightly Build Here:
-https://github.com/NightscoutFoundation/xDrip/releases
-
-
 ## About Me
 I'm just a Type 1 diabetic that is trying to find solutions for myself and finding Amazing Software's that allow me to see my Offline Blood Glucose Readings, and Treat myself on the fly with little thought. Seeing on my watch face my Blood glucose and Trend, Delta, Timestamp and IOB are an absolute must on my watch face for me. I see the overwhelming need for support on Social Media So I'm sharing my results. But Keep in mind this is all experimental and you use at your own risk, Come Check out My You tube Channel for Basic Installation Videos. 
 
 
-**Diabetic Masked Man Channel Here:** https://www.youtube.com/channel/UCF-M5IItLP5aJpMiBQtmQKw
+## **Diabetic Masked Man YouTube Channel Here:**
+
+[https://www.youtube.com/channel/UCF-M5IItLP5aJpMiBQtmQKw](https://www.youtube.com/channel/UCF-M5IItLP5aJpMiBQtmQKw)
+
+## **Diabetic Masked Man Facebook Group Here:**
+
+[https://www.facebook.com/groups/1291213948714988](https://www.facebook.com/groups/1291213948714988)
 
 
-## God Bless
 
 
