@@ -57,11 +57,11 @@ Then Follow the Well written Instructions on the App on how to install apk's. Th
 
 
 ## Installation from a .WFS File ADVANCED!
-**Good if you want to create your own watch face.. I also have included a File Here called "Watch Face Assets.zip" You will need these files put in your asset directory of Watch face studio if you want to use backgrounds and images I used to create the Watch faces.  *
+**Good if you want to create your own watch face.. I have included a File Here called "Watch Face Assets.zip" You will need these files put in your asset directory of Watch face Studio if you want to use the backgrounds and images I used to create the Watch faces.  *
 
-****Installation Instructions for Installing Your own Created Watch Face or Editing one of mine. Using the .wfs File using the (RUN ON DEVICE) command**
+****Installation Instructions for Installing Your own Created Watch Face or Editing one of mine. Using the .wfs File provided here you can use the (RUN ON DEVICE) command to install watch face on your watch**
 
-Samsung Watch Face Studio Gave me allot of problems connecting to my watches during the install "Run On Device", I had to spend quite allot of time trying to install the watch face over and over again. I found out that you can only use Local Storage Device only when editing WFS files. Do not edit or try to Run on Device using Google Drive or Drop Boz etc. It will not work.. 
+Samsung Watch Face Studio Gave some trouble connecting to my watches during the install "Run On Device",  I found the hard way that you can only use Local Storage when editing WFS files or "Run on Device" Do not use Google Drive or Drop Box as it will not work.. 
 
 Here are the Steps:
 
@@ -87,9 +87,7 @@ Here: https://forum.developer.samsung.com/t/run-on-device-problem/20008/55
 
 ## Program Needed for Watch Face Installation Using the "Run on Device" Command
 
-**Download Samsung Watch Face Studio**
-
-WatchFaceStudio_1.6.10.exe for Wear OS Watch faces found Here: "
+[**Download Samsung Watch Face Studio**](https://developer.samsung.com/watch-face-studio/download.html)
 
 
 ## About Me
