@@ -12,10 +12,12 @@ All current DMM Diabetic Watch Faces available on the Google Play Store are stor
 ![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM3_175%20.png)
 ------
 [DMM4_WearOS_WatchFace.wfs](https://github.com/sderaps/DMM/blob/b3dcc92d59be4aeee671cbc45338b86e66b2293c/DMM4_WearOS_Watchface.wfs)
+
 ![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM4_175.png)
 
 ------
 [DMM5_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/b3dcc92d59be4aeee671cbc45338b86e66b2293c/DMM5_WearOS_Watchface.wfs)
+
 ![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM5_175.png)
 
 ---------------
@@ -28,13 +30,16 @@ ____________________
 ![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM7_175.png)
 -----
 [DMM8_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/b3dcc92d59be4aeee671cbc45338b86e66b2293c/DMM8_WearOS_Watchface.wfs)
+
 ![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM8_175.png)
 ______
 [DMM9_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/b3dcc92d59be4aeee671cbc45338b86e66b2293c/DMM9_WearOS_Watchface.wfs)
 
+
 ![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM9_175.png)
 -------
 [DMMx2_v1DMM10WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/b3dcc92d59be4aeee671cbc45338b86e66b2293c/DMMx2_v1DMM10WearOS_Watchface.wfs)
+
 
 ![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMMx2v1_175.png)
 _______
