@@ -42,6 +42,20 @@ ______
 
 
 ![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMMx2v1_175.png)
+
+______
+[DMM11_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/7de7bd62499f4bef071d6584a6c8bdd5e19b6fd5/DMM11_WearOS_Watchface.wfs)
+
+![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM11_175.png)
+
+
+______
+
+[DMM12_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/7de7bd62499f4bef071d6584a6c8bdd5e19b6fd5/DMM12_WearOS_Watchface.wfs)
+
+![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM12%20175.png)
+
+
 _______
 ## Watch Face Specific Customizations can be found on my Web Site Below
 [https://sites.google.com/view/diabeticmaskedman](https://sites.google.com/view/diabeticmaskedman)
