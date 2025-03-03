@@ -55,6 +55,11 @@ ______
 
 ![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM12%20175.png)
 
+___________
+
+[DMM13_WearOS Watchface.wfs](https://github.com/sderaps/DMM/blob/main/DMM13_WearOS_WatchfaceNew.wfs)
+
+![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM13_175.png)
 
 _______
 ## Watch Face Specific Customizations can be found on my Web Site Below
@@ -111,6 +116,13 @@ I'm just a Type 1 diabetic that is trying to find solutions for myself and findi
 [https://www.youtube.com/channel/UCF-M5IItLP5aJpMiBQtmQKw](https://www.youtube.com/channel/UCF-M5IItLP5aJpMiBQtmQKw)
 
 ## **Diabetic Masked Man Facebook Group Here:**
+
+[https://www.facebook.com/groups/1291213948714988](https://www.facebook.com/groups/1291213948714988)
+
+
+
+
+
 
 [https://www.facebook.com/groups/1291213948714988](https://www.facebook.com/groups/1291213948714988)
 
