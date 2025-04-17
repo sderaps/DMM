@@ -68,11 +68,26 @@ _______________________________
 
 _________________________________________________
 
-[DMM15_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/cb1a17314f168ba962dd6740bad0f62cf4b2ac96/DMM15_WearOS_Watchface.wfs)
+[DMM15_Wear_OS_Watchface.wfs](https://github.com/sderaps/DMM/blob/cb1a17314f168ba962dd6740bad0f62cf4b2ac96/DMM15_WearOS_Watchface.wfs)
 
 ![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/dmm15_175.png)
+----------
 
+[DMM16_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/9908929040267446db5bade2ab2d51467cedd5c5/DMM16_WearOS_Watchface.wfs)
 
+![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM16_175.png)
+
+-----------------
+
+[DMM17_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/9908929040267446db5bade2ab2d51467cedd5c5/DMM17_WearOS_Watchface.wfs)
+
+![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM17_175.png)
+
+---------
+
+[DMM18_WearOS_Watchface.wfs](https://github.com/sderaps/DMM/blob/9908929040267446db5bade2ab2d51467cedd5c5/DMM18_WearOS_Watchface.wfs)
+
+![enter image description here](https://raw.githubusercontent.com/sderaps/DMM/refs/heads/main/DMM18_175.png)
 
 
 _______
